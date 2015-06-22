@@ -1,0 +1,12 @@
+# Site settings
+title: My GitHub Page
+email: brian.rinaldi@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Nothing to see here yet.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: remotesynth
+github_username:  remotesynth
+
+# Build settings
+markdown: kramdown

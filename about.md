@@ -4,8 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<img src="/images/brian_small.jpeg" align="right" width="200">
+Brian Rinaldi is the Developer Content Manager at Telerik focused on ensuring that the Developer Relations team creates top notch content for the web development community. Brian is a frequent author and speaker. He also serves as co-editor of the [Mobile Web Weekly](http://mobilewebweekly.co) newsletter. You can follow Brian via [@remotesynth](https://twitter.com/remotesynth) on Twitter.

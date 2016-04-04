@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hostile to Documentation"
+title: "Hostile to Documentation?"
 date: "2016-03-29"
 categories: general
 ---

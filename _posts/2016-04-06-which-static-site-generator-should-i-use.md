@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hostile to Documentation?"
-date: "2016-03-29"
+title: "Which Static Site Generator Should You Choose?"
+date: "2016-04-06"
 categories: general
 ---
 

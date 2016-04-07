@@ -7,15 +7,15 @@ categories: general
 
 This past weekend I had the pleasure of attending the latest [Boston Festival of Indie Games](http://bostonfig.com) at MIT. This was the third year of the event and my second attending. This year, as last, I attended with my two boys (ages 8 and 12). Here are some thoughts on the event and some of the games that I, personally, found interesting.<!--more-->
 
-##The Venue
+## The Venue
 
 This year, as last, the event was held in the athletic center at MIT. However, the event outgrew the downstairs room that it was held in last year and actually took up both floors - the table top games were downstairs and the digital games upstairs (sessions were elsewhere but I didn't attend any). While I am happy that the event has grown (and plenty happy to pay the small $10 fee to attend), it did come with a major drawback: the upstairs room was hot and humid - uncomfortably so. This even on a day when Boston itself was unusually cool for mid-September. Honestly, we might have spent more time there if it weren't for the unpleasant conditions.
 
-##My Favorite Games
+## My Favorite Games
 
 Here are my favorites from what I was able to try at the [showcase](http://bostonfig.com/digital-game-showcase).
 
-###Bōru mo
+### Bōru mo
 
 <img src="/images/posts/BoruMo-1024x576.png" alt="Bōru mo" width="600">
 
@@ -23,7 +23,7 @@ This was probably my favorite game of the day. It's a fun 2 to 4 player game whe
 
 One of the best aspects of this game is the design. It's colorful and cute, which somehow adds to the sense of fun. This shouldn't come as a huge surprise given that the developer is a graphic designer during his day job and this was built over nights and weekends.
 
-###Shock Jocks
+### Shock Jocks
 
 <img src="/images/posts/ShockJocks-768x1024.jpg" alt="Shock Jocks" width="400">
 
@@ -31,7 +31,7 @@ This is a clever iPad game from [@BigMikeTheDev](https://twitter.com/BigMikeTheD
 
 There's no site just yet, so follow [@BigMikeTheDev](https://twitter.com/BigMikeTheDev) for updates.
 
-###Swimsanity
+### Swimsanity
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/9jh9vg87an0" frameborder="0" allowfullscreen></iframe>
 
@@ -39,7 +39,7 @@ A Kickstarter project being developed by [Decoy Games](http://decoygames.com), S
 
 The artwork and controls were all nicely done and my boys and I enjoyed playing together.
 
-###World Zombination
+### World Zombination
 
 <iframe src="//player.vimeo.com/video/99045157" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/99045157">World Zombination Teaser Trailer</a> from <a href="http://vimeo.com/proletariat">Proletariat Inc</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 

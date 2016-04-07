@@ -5,9 +5,7 @@ date:   2014-07-01 10:15:47
 categories: general
 ---
 
-Almost 10 years ago, on January 1, 2005, I started a blog called Remote Synthesis. The name came from synonyms for "Cold" and "Fusion" as ColdFusion development was my primary focus back then. A lot has happened in 10 years.
-
-<!--more-->
+Almost 10 years ago, on January 1, 2005, I started a blog called Remote Synthesis. The name came from synonyms for "Cold" and "Fusion" as ColdFusion development was my primary focus back then. A lot has happened in 10 years.<!--more-->
 
 The blog gained a good deal of popularity during the years that I was working on my popular ColdFusion code generator and posting the ColdFusion Open Source List. It remained somewhat popular during my years working with Flex and running the Flex Camp Boston conference (later RIA Unleashed and now Web Unleashed). Eventually, when joining Adobe, my focus started to drift from that blog to publishing elsewhere - on the Adobe Developer Connection that I was helping to run and other writing responsibilities.
 

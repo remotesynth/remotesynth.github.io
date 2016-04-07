@@ -21,7 +21,7 @@ So what's changed?
 
 <!--more-->
 
-##No One's Using Our App
+## No One's Using Our App
 
 In his recent post, [Alex Austin makes a strong case](https://medium.com/swlh/mobile-app-developers-are-suffering-a5636c57d576) that the mobile app ecosystems has become over-saturated and tilted heavily towards the top 0.01% of apps. He posted a chart that illustrates this.
 
@@ -49,7 +49,7 @@ Well-known venture capitalist Fred Wilson has discussed what he calls the "mobil
 
 In the [same post](https://medium.com/swlh/mobile-app-developers-are-suffering-a5636c57d576) discussed earlier, Alex Austin shared some ideas of how to save the mobile app ecosystem - more on that later. But first, can't the mobile web offer an alternative?
 
-##The Mobile Web to the Rescue?
+## The Mobile Web to the Rescue?
 
 So if apps are hurting, does this benefit the mobile web as an alternative? Yes...and no.
 
@@ -68,7 +68,7 @@ Well, Comscore did follow up the above stats by noting a lack of engagement by m
 
 The other big problem with the mobile web is that, as I've [discussed in detail before](http://developer.telerik.com/featured/whats-wrong-with-the-web/), the mobile web suffers from performance issues and poor monetization capabilities - these are somewhat related as the [performance problems are often caused by the attempts to monetize](http://developer.telerik.com/featured/the-webs-cruft-problem/). This has led to the rise of mobile ad blockers, which, while [apparently very effective](http://www.nytimes.com/2015/10/01/technology/personaltech/ad-blockers-mobile-iphone-browsers.html?_r=0) in improving performance, are expected to cost businesses upwards of [$22 billion in revenue](http://www.nytimes.com/2015/08/20/technology/personaltech/ad-blockers-and-the-nuisance-at-the-heart-of-the-modern-web.html) this year alone. Yes, that's billion with a b.
 
-##So There's No Hope Then?
+## So There's No Hope Then?
 
 So, at this point we've established that the native mobile app ecosystem is potentially broken and the mobile web doesn't currently offer an easy, clear-cut alternative. What can we do?
 
@@ -78,7 +78,7 @@ But must it?
 
 I agree that there is a problem with the native mobile app ecosystem. In fact, I've been arguing this on a personal level for years. Before I go further, I will reiterate that this is _my personal opinion_ and does not reflect those of my employer (i.e. Progress Software or Telerik). Ok, now that that's out of the way, I can say that I think the bigger issue is that **most apps suck**.
 
-##That's Right, I Said Most Apps Suck
+## That's Right, I Said Most Apps Suck
 
 Yes, I am being hyperbolic here but let me explain.
 
@@ -105,7 +105,7 @@ If you already have an app and feel the need to improve adoption via an app inst
 
 > Focus on creating richer, more immersive and personalized app experiences for your apps users to keep them coming back.
 
-###I Did Also Say "Most"
+### I Did Also Say "Most"
 
 I should emphasize that I am not claiming all apps are bad or apps are bad by nature. In marketplaces that each have [over 1.5 million apps](http://www.statista.com/statistics/276623/number-of-apps-available-in-leading-app-stores/), there are probably thousands of fabulous apps. However, the large number of bad apps are crowding out the good ones, making them hard to find or identify.
 
@@ -113,8 +113,7 @@ Apps also have some innate benefits. For example ,most of the apps I have instal
 
 These are areas the web needs to catch up. The one-click convenience does not have to be solely the domain of native apps. And [push notifications](http://www.w3.org/TR/push-api/) on the web are coming (and in some cases, they're [already here](https://developers.google.com/web/updates/2015/03/push-notifications-on-the-open-web)).
 
-
-##The Native Mobile App Ecosystem Doesn't Need Saving
+## The Native Mobile App Ecosystem Doesn't Need Saving
 
 Native mobile apps don't need to be saved because they aren't dying. This pain the ecosystem seems to be going through is not a pain of injury but one of healing. It is a pain caused by misuse - by filling the app store with thousands of apps that don't need to exist.
 

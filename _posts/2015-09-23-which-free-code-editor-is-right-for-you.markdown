@@ -15,7 +15,7 @@ In my latest article, [Battle of the Free Code Editors](http://developer.telerik
 
 Please, [check out the article](http://developer.telerik.com/featured/battle-of-the-free-code-editors/) and feel free to share your thoughts.
 
-###A Note on Sublime
+### A Note on Sublime
 
 I was asked numerous times after writing this article, why did I not include [Sublime](http://www.sublimetext.com/)? After all, Sublime is, for all intents and purposes, the market leader for lightweight code editors. The article compared _free_ editors. However, _Sublime is not free!_
 

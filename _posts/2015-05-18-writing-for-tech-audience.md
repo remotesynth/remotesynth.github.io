@@ -11,7 +11,7 @@ However, I've also been editing articles and blog posts about web development an
 
 All of this experience has taught me some things that I think help to make a really good (and potentially really popular) article or blog post for a developer or technology audience. In this post I'll share my recommendations, though I should note that I'm not an expert at always following my own guidelines all the time.<!--more-->
 
-##Have a Style
+## Have a Style
 
 It's important to keep in mind that you aren't writing API docs. API docs are generally dry, boring and simply stick to the facts. That's their goal. However, an article or blog post should allow some of your personality to shine through. This helps to make the content both more relatable and more enjoyable to read.
 
@@ -24,7 +24,7 @@ Some things that can help:
 * Did you have a struggles along the way? There's no shame in admitting that you found something difficult - your readers will likely relate to the experience.
 * Have fun with the demo! Perhaps pick something you are interested in that isn't technical. For example. I often choose to use some cartoons I enjoy as subject matter for my demos.
 
-##Know Your Audience
+## Know Your Audience
 
 While you should have a voice and a style, it's important to know when it's ok to be more or less casual in your voice. If I am writing something for my blog, I am often much more casual than if I am writing for the Telerik Developer Network or Sitepoint.
 
@@ -32,7 +32,7 @@ If I am writing for my blog, proper grammar, punctuation and spelling are less i
 
 Try to always have a friend you trust read through the article first - this isn't critical for a personal blog post but even those can benefit. Even the best writers need a second opinion and there is nothing than can make your content better than a good, critical opinion.
 
-##Stay on Track
+## Stay on Track
 
 So many developers tend to think that every little detail is pertinent. So, they get sidetracked. Instead of traveling straight down a path, they don't just point out the detours, but take you down them.
 
@@ -42,12 +42,12 @@ The best strategy in these cases is to simply point to the "detour" as an aside 
 
 You may feel as though you are being somehow incomplete in your coverage, but you are less likely to lose the 90% of the readers to whom the straightforward path applies by not catering your post to the 10%.
 
-##Avoid the Wall of Text
+## Avoid the Wall of Text
 
 There is nothing harder to read than a post that has no headers and is filled with overly long paragraphs. Adding section headers and even subheaders for long sections not only makes your article easier to read, but also makes it easier to scan - which can help the reader determine it's value to them.
 
 Shorter paragraphs also make your content more readable and scannable. Plus, a wall of unbroken text can seem intimidating to a reader. Break up large paragraphs and, whenever possible, place key ideas into lists, which I've found can help drive home key points and improve retention.
 
-##What Are Your Ideas?
+## What Are Your Ideas?
 
 Hopefully you've found these ideas helpful. Do you have any strategies you use to improve your writing? Please share.

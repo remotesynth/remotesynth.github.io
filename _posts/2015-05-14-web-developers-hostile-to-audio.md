@@ -22,7 +22,7 @@ Let's recap:
 
 I have a theory as to why.
 
-###The Legacy of Years of Misuse
+### The Legacy of Years of Misuse
 
 I expressed this In the early days of the web, we didn't have the web audio API. What we had was site's that got clever and used MIDI or, even worse, had some obnoxious "Hamster Dance" like audio.
 
@@ -30,7 +30,7 @@ I expressed this In the early days of the web, we didn't have the web audio API.
 
 Then came years of Flash Intros and more useless audio. It became ingrained in web developers' heads that audio on the web was purely a gimmick. It is such a widely accepted "faux pas" to include audio, that even the mention of carefully considering audio brings strong reactions.
 
-###It's Time to Let It Go
+### It's Time to Let It Go
 
 But do we have to be held back today by the misdeeds of years ago? Sure, the web audio API can be misused. Sure, so far, we've mostly shown how it can be used for things like [8 bit video game music](http://modernweb.com/2013/09/09/retro-game-music-using-web-audio-and-band-js/) (guilty as charged) and web-based drum machines. (Not that those things are useful, even purely as excercises in having some fun with your programming skills, they are beneficial.) The point is, though, this doesn't negate there being useful and practical ways to integrate audio into your web application. If it's ok for every other type of application, why not the web?
 

@@ -10,21 +10,21 @@ Most of us deal with the "community" in our jobs on some level or another. Perha
 Recently, I wrote an article about a [bit of a dust up in the AngularJS community](http://developer.telerik.com/featured/can-angularjs-maintain-dominance/) about the plans for Angular 2.0 and it got me thinking about how we deal with the community - specifically when there is a widespread community backlash.
 <!--more-->
 
-##We're Not Talking About Trolls
+## We're Not Talking About Trolls
 
 There's a big difference between trolls, whose complaints are almost always singular in nature (and agressive in tone). In my experience, trolls complain alone and specifically target an issue that is very specific to them. In this case, I'm talking about a decision that caused widespread unhappiness in your customer base or users and is being expressed, sometimes angrily but rarely aggressively, by a large swath of your community.
 
-##I Have Some Experience in This
+## I Have Some Experience in This
 
 I've been on both sides of community backlashes. Professionally, I was the Flash and Flex community manager at Adobe around the time of the infamous "Thoughts on Flash" essay by Steve Jobs. At the time and understandably, any actions Adobe took around Flash and Flex were heavily scrutinized. I was still a public face for the products (even if I had technically just been reorged) around the time that Adobe decided to end of life...errr...open source Flex. As you can imagine, I caught a fair share of flak.
 
 Nonetheless, I think it taught me a lot of great lessons that I've carried into my positions since, both for and after Adobe.
 
-##The Different Kinds of Decisions that Cause Backlash
+## The Different Kinds of Decisions that Cause Backlash
 
 In my experience there are three core types of decisions (by a product team, company, open source project, etc.) that can often lead to a backlash. The first two are relatively easy to handle.
 
-###Necessary Decisions
+### Necessary Decisions
 
 Let's face it - sometimes there are decisions that you, your company, or your product team may make that simply have to be made, but will, nonetheless, make your community unhappy. Sometimes, you, personally, don't even like the decision. However, there's a big difference betwen liking a decision and understanding and supporting why it was made.
 
@@ -32,7 +32,7 @@ To me this is easy to handle as your options are very limited. You can and shoul
 
 The last thing you can do in this case is simply develop a thick skin. You're gonna get some lumps and that's ok. Keep in mind that these things pass and often seem much worse in the moment than they do in retrospect.
 
-###Poorly Communicated Decisions
+### Poorly Communicated Decisions
 
 Sometimes it isn't really what changed that upset your community but how you, your company or others communicated that decision to them. In my experience, sometimes companies spend so much time wordsmithing their communications that they remove all humanity from them - they sound like they are coming from a committee who is more concerned with protecting the company than with the impact of decisions on their customers. This (and other things) can lead to communicating a the impact of a change poorly.
 
@@ -40,7 +40,7 @@ In this case, I also think the response is simple, if not easy, which is to clea
 
 Of course, if you can smooth some hurt feelings with free stuff of some sort, that always helps too.
 
-###"Best Intention" Decisions
+### "Best Intention" Decisions
 
 What the heck do I mean by this? Well, this is kind of where AngularJS was. Sometimes decisions are made that impact our customers, users, or whatever that are made with the best intentions, but, in the end, we misread the needs of our customers/users/etc. It wasn't that we miscommunicated. They understood - they just didn't like what they heard.
 
@@ -54,7 +54,7 @@ Sometimes, the decision was a poor one made with the best of intentions and shou
 
 The point is, there are many options to choose from in this case, and knowing which is the right one isn't always easy when you are receiving a barrage of unhappy tweets, blog posts, comments and more coming your way.
 
-##Whatever You Do, Don't Assume Your Community Is Wrong
+## Whatever You Do, Don't Assume Your Community Is Wrong
 
 Here's the thing to recognize - in none of these cases is the community wrong. Remember, these aren't trolls - they are community members we care about with a legitimate complaint. In case 1, they have every right to be unhappy even if there's little we can do about it. In case 2, we communicated poorly and this led to them being unhappy. In case 3, we probably just need to adjust a little - even if the reaction may have seemed overly harsh. The single biggest mistake you can make in any of these cases is thinking you are somehow better or more enlightened than your commmunity and plowing ahead with your decisions accordingly.
 

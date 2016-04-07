@@ -13,7 +13,7 @@ For writers and the general public however, this presents a huge obstacle. They 
 
 That being said, as Markdown becomes more widespread in its use, the tooling around it is slowly improving. I use Markdown daily and below are some of the tools that I've found useful in my own experience.<!--more-->
 
-##Desktop Editors
+## Desktop Editors
 
 Most code editors such as [Brackets](http://brackets.io/) or [Atom](https://atom.io/) already include some level of Markdown support. However, if you're looking for an editor with richer functionality geared specifically towards Markdown, then there are a number of options.
 
@@ -29,13 +29,13 @@ If you are on Windows, some options I've heard recommended include [Texts](http:
 
 Lastly, while not technically an editor, [Markdown Live](https://github.com/mobily/markdown-live) is a useful tool for live-previewing Markdown as you write it. Once installed, you simply change directory into the folder you want to serve up and enter `mdlive` and it will open a preview in the browser that will update as you type - without the need to save the file. This can be useful if you prefer to use a plain text editor for writing Markdown.
 
-##Web-based Editors
+## Web-based Editors
 
 If you are looking for a free web-based option, [Dillinger](http://dillinger.io/) is a free (and open source) Markdown editor for the browser. It includes a live preview as well as the ability to import documents from numerous sources and export them to various formats.
 
 However, one of the things lacking in both desktop and web-based editors is collaboration. If you are working on a team, the ability to share, comment and collaborate on a document is not just useful, but necessary. [Beegit](https://beegit.com/) is a commercial offering that includes a number of collaboration features. My team uses it mostly for the ability to share and comment on documents as they are being developed, much as you would within Google Drive.
 
-##Converters
+## Converters
 
 When you are working with a number of contributors, it's not always possible to force everyone to use Markdown. While Markdown's simplicity makes it simple to manually convert short documents, converting long documents or groups of documents could get tedious and time consuming. While they aren't perfect, in these cases, a converter can be enormously helpful.
 
@@ -45,6 +45,6 @@ Word to Markdown is also available as an [open source project and command line t
 
 In other cases, you may encounter rich text that you need converted to Markdown, such as text copy/pasted from the web or some other editor. In these situations, I've found [Mark It Down](http://markitdown.medusis.com/) to be both reliable and helpful (it is also [open source](https://github.com/bambax/markitdown.medusis.com)). Simply paste in the rich text and hit the convert button to get back nice, clean Markdown.
 
-##Other Tools?
+## Other Tools?
 
 This is by no means a comprehensive list of Markdown tools - just the ones that I've personally come to rely on at some level or another. Are there any others that you recommend? Be sure to share in the comments as I'm always looking for new ones.

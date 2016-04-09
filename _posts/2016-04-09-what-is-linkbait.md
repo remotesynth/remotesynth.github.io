@@ -5,7 +5,7 @@ date: "2016-04-09"
 categories: general
 ---
 
-I've see the term linkbait thrown around quite a bit (I've been accused of it myself). However, I think it's worth taking a look at the term to decide what it really means.
+I've see the term linkbait thrown around quite a bit (I've been accused of it myself). However, I think it's worth taking a look at the term to decide what it really means.<!--more-->
 
 ##It's Not About the Title
 

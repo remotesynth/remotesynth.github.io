@@ -7,7 +7,7 @@ categories: general
 
 I've see the term linkbait thrown around quite a bit (I've been accused of it myself). However, I think it's worth taking a look at the term to decide what it really means.<!--more-->
 
-##It's Not About the Title
+## It's Not About the Title
 
 Linkbait accusations often have to do with the title. It's true that one characteristic of linkbait is a very catchy title of some sort - so much so that it has become a bit of a parody to include something along the lines of "...and You Won't Believe What Happened Next?" in an article title.
 
@@ -25,7 +25,7 @@ Is that linkbait? I read Mashable, and generally trust its content, but that's a
 
 The problem is that, while certain types of titles can be indicative of linkbait, *it's not about the title*. If you clicked on one of those links, it's at least in part because the title was a good and effective one. I've clicked on plent of them myself.
 
-##It's About the Content
+## It's About the Content
 
 If you were disappointed when you clicked one of those links, it's because you learned that the title was either partially or entirely misleading. What turns a post into linkbait is that it intentionally doesn't deliver on the promise of its headline.
 
@@ -33,6 +33,6 @@ Perhaps it was a bait-and-switch, where the content was not or barely relevant t
 
 However, an article that has a catchy title but content that I disagree with is _not_ linkbait. I may even believe it is a terrible article, but that does not make it linkbait if it was not intentionally misleading you with the some ulterior motive - generally ads but sometimes more malicious.
 
-##Conclusion
+## Conclusion
 
 It's important to be clear on what is and what isn't linkbait. Calling an article I disagree with linkbait can be dismissive but also create a false equality between legitimate content and intentionally deceptive content.

@@ -2,8 +2,14 @@
     articles:
       - title: "Static Site Generators - Modern Tools for Static Website Development"
         URL: "http://www.oreilly.com/web-platform/free/static-site-generators.csp"
+      - title: "Working with Static Sites (co-author with Raymond Camden) -- forthcoming"
+        URL: "http://shop.oreilly.com/product/0636920051879.do"
 -   name: "Telerik Developer Network"
     articles:
+      - title: "A Guide to Browser Scroll Animations"
+        URL: "http://developer.telerik.com/featured/guide-browser-scroll-animations/"
+      - title: "Alexa, Can I Use?"
+        URL: "http://developer.telerik.com/featured/alexa-can-use/"
       - title: "Your Open Source Project is Considered Harmful"
         URL: "http://developer.telerik.com/featured/open-source-project-considered-harmful/"
       - title: "Is left-pad Indicative of a Fragile JavaScript Ecosystem? (with TJ VanToll & Cody Lindley)"
@@ -79,6 +85,12 @@
     -
        title: "Add depth to your project with practical web audio"
        URL: "http://radar.oreilly.com/2015/06/add-depth-to-your-project-with-practical-web-audio.html"
+-   name: "Digital Thirst"
+    articles:
+    -
+       name: "Is the Future of the Web Spoken?"
+       URL: "https://www.digitalthirst.com/item/is-the-future-of-the-web-spoken-"
+
 -   name: "The Modern Web (formerly Flippin' Awesome)"
     articles:
       -

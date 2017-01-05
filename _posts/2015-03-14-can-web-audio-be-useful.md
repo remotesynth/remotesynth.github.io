@@ -2,7 +2,10 @@
 layout: post
 title:  "Can Web Audio be Useful?"
 date:   2015-03-14 09:00:00
-categories: general
+categories:
+    - web development
+description: Tl;dr - yes, it can, if used thoughtfully.
+comments: true
 ---
 
 Next month, I will be presenting at the [Fluent Conference](http://fluentconf.com) in San Francisco on the topic of "Practical Web Audio." The idea here is that most every demo or presentation about web audio (including my own) have been fun and cool but not practical unless you build games or music software.

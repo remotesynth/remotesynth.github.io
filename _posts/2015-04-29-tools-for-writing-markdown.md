@@ -2,7 +2,11 @@
 layout: post
 title:  "Tools for Writing and Converting Markdown"
 date:   2015-04-29 11:15:47
-categories: general
+categories:
+    - web development
+    - static sites
+description: Some useful tools for when you need to convert other formats to Markdown.
+comments: true
 ---
 
 By now, most developers are familiar on some level with [Markdown](http://daringfireball.net/projects/markdown/). It's become a somewhat ubiquitous part of developer tooling, probably in no small part due to it's usage for documentation in GitHub. It also plays a big part in nearly all the major static site engines.

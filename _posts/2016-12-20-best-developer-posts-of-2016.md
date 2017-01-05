@@ -3,6 +3,8 @@ layout: post
 title: "Top 10 Developer Posts of 2016"
 date: "2016-12-20"
 categories: general
+description: Shout-outs to some great content over the past year!
+comments: true
 ---
 
 I read _a lot!_ Part of this is the nature of my job as, essentially, the Editor in Chief of the [Telerik Developer Network](http://developer.telerik.com) and even as co-editor of [Mobile Web Weekly](http://mobilewebweekly.co). But I also love to read and read a lot of technical articles for developers as part of my daily routine.

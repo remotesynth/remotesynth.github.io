@@ -2,7 +2,10 @@
 layout: post
 title: "Is the Native Mobile App Ecosystem Worth Saving?"
 date: "2015-11-17"
-categories: general
+categories:
+    - mobile
+description: The app store ecosystem is slowly failing. Is that ok?
+comments: true
 ---
 
 The native mobile app ecosystem is facing some major challenges. Some have even argued that it is in need of saving. Before we get there, though, let's examine what the problems are.

@@ -2,7 +2,11 @@
 layout: post
 title: "Get Started with Static Site Generators"
 date: "2015-09-25"
-categories: general
+categories:
+    - web development
+    - static sites
+description: A free report on static site development from O'Reilly.
+comments: true
 ---
 
 In the early days of the web, there was no such category as "static sites" - the web was made up of static resources. This was a maintainable solution when the web was simple. That didn't last long.

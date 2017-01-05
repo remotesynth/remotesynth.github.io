@@ -2,7 +2,9 @@
 layout: post
 title: "How to Speak at Fluent"
 date: "2017-01-05"
-categories: general
+categories: conferences
+description: Tips for prospective Fluent Conference speakers.
+comments: true
 ---
 
 There's a [good post by Ben Vinegar](https://medium.com/@bentlegen/three-tips-for-getting-a-talk-accepted-at-fluent-9eff841efc54#.hgqvl4jjd) suggesting tips for getting accepted to speak at [Fluent Conference](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522). These are all good tips and, as he says, will work for just about any event you want to speak at. It's worth a read.

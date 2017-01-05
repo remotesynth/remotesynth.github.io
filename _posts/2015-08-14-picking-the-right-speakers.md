@@ -2,7 +2,9 @@
 layout: post
 title:  "Picking the Right Speakers for Conferences"
 date:   2015-08-14 09:00:00
-categories: general
+categories: conferences
+description: My take on the right process for choosing speakers.
+comments: true
 ---
 
 I have been involved in events for some years, ever since running Flex Camp Boston back in 2007 and as recently as handling many aspects of the planning, in particular the speaker lineup, for this year's TelerikNEXT event. I've also served on conference committees for events like QCon New York and Fluent. In my personal experience, the hardest part of running events are getting the word out and choosing the right speakers. Arguably, choosing the right speakers can heavily impact your ability to get the word out - after all, your content is the biggest selling point of your event.

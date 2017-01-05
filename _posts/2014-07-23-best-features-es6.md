@@ -2,7 +2,11 @@
 layout: post
 title:  "The Best Features in ECMAScript 6?"
 date:   2014-07-23 11:12:00
-categories: general
+categories:
+    - web development
+    - JavaScript
+description: I interview Axel Rauschmayer at QCon NY.
+comments: true
 ---
 
 Recently I had the chance to attend [QCon NY](https://www.qconnewyork.com/). Actually, I was fortunate enough to be on the programming committee and to lead a track there. My track was called "Beyond JavaScript" and one of my featured speakers was [Dr. Axel Rauchsmayer](http://www.2ality.com/) speaking on ECMAScript 6 (i.e. the next version of JavaScript).<!--more--> I was very excited that Axel was able to attend all the way from Munich, as he is well known expert on ES6 (and author of the new book ["Speaking JavaScript"](http://speakingjs.com/)).

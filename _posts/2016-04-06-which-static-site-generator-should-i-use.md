@@ -2,7 +2,11 @@
 layout: post
 title: "Which Static Site Generator Should You Choose?"
 date: "2016-04-06"
-categories: general
+categories:
+    - web development
+    - static sites
+description: Which static site generator do I recommend? The simple answer is easy.
+comments: true
 ---
 
 As part of the process of writing my [Static Site Generators ebook](http://www.oreilly.com/web-platform/free/static-site-generators.csp) for O'Reilly and maintaining my [Static Site Samples project](https://github.com/remotesynth/Static-Site-Samples) on GitHub, I've used a good number of static site generators including: Jekyll, Middleman, Hugo, Wintersmith, Metalsmith, Harp, Hexo, DocPad and Roots.

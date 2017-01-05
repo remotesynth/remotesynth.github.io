@@ -2,7 +2,11 @@
 layout: post
 title: "More Advanced Jekyll/Liquid Template Techniques"
 date: "2016-10-27"
-categories: general
+categories: 
+    - web development
+    - static sites
+description: Sometimes Jekyll stuff isn't obvious.
+comments: true
 ---
 
 Working on a recent project, I've come across several items that were either not well documented or slightly complex - though perhaps calling them "advanced" overstates the case. In this case, we'll cover using multiple filters on a single value, using Liquid in Markdown, custom sorting posts and displaying posts by category. I'm sure there may be different (even better) solutions to what I describe here, but I share because these worked for me (and might for you too).

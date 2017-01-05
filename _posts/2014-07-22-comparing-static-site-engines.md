@@ -2,7 +2,11 @@
 layout: post
 title:  "Comparing Static Site Engines"
 date:   2014-07-22 11:15:47
-categories: general
+categories:
+    - static sites
+    - web development
+description: A look at some of the top static site generator options today.
+comments: true
 ---
 
 As part of researching for restarting this blog as well as for my work developing the [Telerik Developer Network](http://developer.telerik.com), I researched several of the most well-known static site engines.<!--more--> Specifically, I tried to build this site using Jekyll (which is what I ended up using), Harp and Roots. These were the three engines listed prominently on the [StaticApps.org](http://staticapps.org) resource site. I really think that many sites, especially those focused purely on content, can potentially move away from dynamic, CMS-driven site architectures that can be a burden to maintain, to purely static HTML with a "back-end" that generates the site locally.

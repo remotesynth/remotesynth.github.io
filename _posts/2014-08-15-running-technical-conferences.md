@@ -2,7 +2,9 @@
 layout: post
 title:  "Running Great Technical Conferences"
 date:   2014-08-16 09:00:00
-categories: general
+categories: conferences
+description: What makes a great technical conference? I share my thoughts.
+comments: true
 ---
 
 As some readers may know, for five years I ran a small (about 350 people) conference here in Boston. Originally called Flex Camp Boston (and obviously focused on Flex), it was renamed RIA Unleashed and subsequently [Web Unleashed](http://fitc.ca/event/webu14/). The event still exists, run by FITC and occurring this September in Toronto.

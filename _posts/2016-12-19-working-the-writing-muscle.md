@@ -2,7 +2,9 @@
 layout: post
 title: "Working the Writing Muscle"
 date: "2016-12-19"
-categories: general
+categories: personal
+description: Ignore it and you lose it!
+comments: true
 ---
 
 Writing is tough. Even for someone who has enjoyed writing his whole life (like me), it can be difficult. Even worse, the less you do it the harder it gets. Just like an excercise routine, the best way to make it easier is just to keep doing it. Not using it, you risk losing it.

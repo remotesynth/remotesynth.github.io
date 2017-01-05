@@ -2,7 +2,11 @@
 layout: post
 title:  "Jekyll Versus the Competition"
 date:   2015-05-07 11:15:47
-categories: general
+categories:
+    - web development
+    - static sites
+description: How does Jekyll stack up to other generators? I share my thoughts.
+comments: true
 ---
 
 On Saturday, May 2, the first ever [JekyllConf](http://jekyllconf.com) was held online and featured some really prominent speakers including Tom Preston-Werner and Brandon Mathis. I had the honor of opening the event with my session comparing Jekyll to other popular static site engine options including [Harp](http://harpjs.com), [Hexo](http://hexo.io/), [Wintersmith](http://wintersmith.io/), [Hugo](http://gohugo.io/) and [Middleman](https://middlemanapp.com/).

@@ -3,6 +3,8 @@ layout: post
 title: "Enough with the Developer Surveys Already"
 date: "2015-12-11"
 categories: general
+description: Tl;dr - the data is of limited value.
+comments: true
 ---
 
 The developer survey seems to have become a mainstay of technical blogs lately. I don't mean to pick on anyone in particular, but the problem is, almost every one does not pass the eye test. This isn't surprising when you think about it though. There are several problems with these surveys that prevent them from really being representative of the community they want to represent.

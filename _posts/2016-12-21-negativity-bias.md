@@ -2,7 +2,9 @@
 layout: post
 title: "The Impact of Negativity Bias"
 date: "2016-12-21"
-categories: general
+categories: personal
+description: Why we tend to focus on the bad stuff first.
+comments: true
 ---
 
 [Negativity bias](https://en.wikipedia.org/wiki/Negativity_bias) is a term that describes something that, I think, we all instinctively know - that essentially negative things can overwhelm positive ones because they have more impact on your emotional state.

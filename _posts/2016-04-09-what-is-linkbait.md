@@ -3,6 +3,8 @@ layout: post
 title: "What is Linkbait?"
 date: "2016-04-09"
 categories: general
+description: A term that has become overloaded.
+comments: true
 ---
 
 I've see the term linkbait thrown around quite a bit (I've been accused of it myself). However, I think it's worth taking a look at the term to decide what it really means.<!--more-->

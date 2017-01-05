@@ -2,7 +2,11 @@
 layout: post
 title:  "A Guide to Building Static Sites with Jekyll"
 date:   2015-03-24 09:00:00
-categories: general
+categories:
+    - web development
+    - static sites
+description: A walkthrough on building our first static site with Jekyll.
+comments: true
 ---
 
 As I've [posted about recently](http://remotesynthesis.com/general/2015/03/04/comparing-static-site-engines/), I've been speaking a lot about comparing static site engines. There are a *ton* of options out there (389 as of today, according to [this site](https://staticsitegenerators.net/)). However, based on my personal experience, I always recommend [Jekyll](http://jekyllrb.com) - granted, that's based on having used 5 of the 389 so far.

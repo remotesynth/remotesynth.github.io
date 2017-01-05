@@ -2,7 +2,10 @@
 layout: post
 title:  "Is the Web Really in Trouble?"
 date:   2015-08-02 09:00:00
-categories: general
+categories:
+    - web development
+description: An overview of the debate over web versus native.
+comments: true
 ---
 
 This morning I published a post on the [Telerik Developer Network](http://developer.telerik.com) that asks the question "[What's Wrong with the Web?](http://developer.telerik.com/featured/whats-wrong-with-the-web/)"? If you read about web development at all (and apparently you do, since you are reading this), you can't possibly have missed the long list of posts declaring that the web, as we know it, is in serious jeopardy. The main issues are:

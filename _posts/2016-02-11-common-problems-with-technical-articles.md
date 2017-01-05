@@ -2,7 +2,10 @@
 layout: post
 title: "5 Common Problems with Technical Articles"
 date: "2016-02-11"
-categories: general
+categories:
+    - content strategy
+description: Common mistakes most developers tend to make in their writing.
+comments: true
 ---
 
 I read and edit a lot of technical articles - generally written by developers for developers. In the past, I wrote up some guidelines for [making your technical content better](http://remotesynthesis.com/general/2015/05/18/writing-for-tech-audience/). This time, I want to take the opposite angle and focus on some mistakes I see all too frequently.<!--more-->

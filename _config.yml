@@ -1,23 +1,113 @@
-# Site settings
-title: Remote Synthesis
-email: brian.rinaldi@gmail.com
-description: "The blog of Brian Rinaldi, Developer Content Manager at Telerik"
-baseurl: ""
-url: "http://remotesynthesis.com"
-username: remotesynth
+title:            Remote Synthesis
+description:      The personal blog of Brian Rinaldi.
+logo:             logo.png
+disqus_shortname: remotesynthesis
+# Assign a default image for your site's header and footer
+default_bg:       default_bg.jpg
+search:           true
+share:            true
+# Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
+readtime:         true
+# Turn on or off the fin animations in the header and footer
+triangleheader:	  true
+animated_fins:    true
+# Specify the fin color in RGB value
+fin_color:        "255,255,255"
+# Change url to your domain. Leave localhost server or blank when working locally.
+url:              
+# baseurl:           
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# Gems used
+gems:
+  - jekyll-feed
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-seo-tag
+
+# Archives configuration
+# https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: 'archive'
+  permalinks:
+    # year: '/:year/'
+    # month: '/:year/:month/'
+    # day: '/:year/:month/:day/'
+    tag: '/archive/tag/:name/'
+    category: '/archive/category/:name/'
+
+# Owner/author information
+author:
+  name:           Brian Rinaldi
+  picture:        brian.jpg
+  email:          brian.rinaldi@gmail.com
+  # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
+  description:    Brian Rinaldi is the Developer Programs Manager at Telerik on the Developer Relations team where he works on a variety of community programs including the Telerik Developer Network, user groups and events. Brian has been a developer for nearly 20 years, working with front-end and back-end technologies mostly focused on the web. Brian serves as the co-editor of Mobile Web Weekly, authored a report on Static Site Generators for O&#39;Reilly and is co-author of an upcoming book for O&#39;Reilly, also on static site generators.
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: remotesynth
+  facebook:
+  github: remotesynth
+  linkedin:
+  instagram:
+  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-184195-1
+google_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+    external: false
+    icon: home
+  - title: Categories
+    url: /categories
+  - title: Publications
+    url: /publications
+    external: false
+  - title: Presentations
+    url: /presentations
+    external: false
+
+# Sitemap configuration
+# https://github.com/kinnetica/jekyll-plugins
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+markdown:    kramdown
 highlighter: rouge
+paginate:    6
+paginate_path: "/blog/:num/"
 
-#pagination
-paginate: 5
-excerpt_separator: "<!--more-->"
-gems: [jekyll-paginate]
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title
+  pages:
+    output: true
+    permalink: /:title
 
-#glynn
-ftp_host: '162.208.2.130'
-ftp_dir: 'public_html'
-ftp_passive: true
-ftp_username: 'remotesynthesis'
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6

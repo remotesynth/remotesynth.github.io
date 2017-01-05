@@ -2,7 +2,10 @@
 layout: post
 title: "Which Free Code Editor Is Right For You?"
 date: "2015-09-23"
-categories: general
+categories:
+    - web development
+description: What's the current state of free code editors?
+comments: true
 ---
 
 We live in a day and age as web developers where our biggest complaint seems to be a overabundance of free tools. In the case of code editors, there are a few prominent free ones: [Atom](http://atom.io), [Brackets](http://brackets.io/) and, most recently, [Visual Studio Code](https://code.visualstudio.com/). Each editor has its own set of strengths and weaknesses. Each is backed by a large corporation - GitHub for Atom, Adobe for Brackets and Microsoft for Visual Studio Code - so obviously they will be geared towards the target audience of each respective company.

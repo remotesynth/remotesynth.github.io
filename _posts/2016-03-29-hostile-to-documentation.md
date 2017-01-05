@@ -3,6 +3,8 @@ layout: post
 title: "Hostile to Documentation?"
 date: "2016-03-29"
 categories: general
+description: Developers don't like writing documentation.
+comments: true
 ---
 
 I think every developer has had that feeling when they discover a project on GitHub that seems like the answer to the problem they are trying to solve. Unfortunately, many times this project turns out to be either undocumented or minimally documented and the experience ends in frustration.

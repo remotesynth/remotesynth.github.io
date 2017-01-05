@@ -3,6 +3,8 @@ layout: post
 title:  "Dealing with an Unhappy Community"
 date:   2014-11-03 09:00:00
 categories: general
+description: What happens when your community pushes back?
+comments: true
 ---
 
 Most of us deal with the "community" in our jobs on some level or another. Perhaps we are an engineer on a product that has a community of users, or work for a company that has a community of customers, or, perhaps, are in a position to be part of the public face of a company, product or service who is tasked with communicating with the community as part of your job duties.

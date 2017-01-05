@@ -2,7 +2,10 @@
 layout: post
 title:  "Why are Web Developers Hostile to Audio?"
 date:   2015-05-14 11:15:47
-categories: general
+categories:
+    - web development
+description: Web developers refuse to integrate audio in their applications. Why?
+comments: true
 ---
 
 I like to talk and write about Web Audio. It can be a fun topic. However, most talks and demos fail to touch on anything useful. Sure, we can build drum machines and sequencers to our heart's content, but how does this apply to 90% of the web? It doesn't. Thus, when I speak or write about web audio it seems to draw a niche audience.

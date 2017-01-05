@@ -2,7 +2,10 @@
 layout: post
 title:  "Patterns of Development"
 date:   2015-01-21 09:00:00
-categories: general
+categories:
+    - web development
+description: Yes, I am old. That gives me some perspective.
+comments: true
 ---
 
 Patterns are something that you cannot view close up - a narrow view obscures the pattern. However, given distance and time, we can begin to make out the sequences that repeat. This is one of the few benefits of being old, which I am compared to many developers.

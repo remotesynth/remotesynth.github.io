@@ -2,7 +2,10 @@
 layout: post
 title:  "The Content Model of the Web is Broken"
 date:   2015-01-16 09:00:00
-categories: general
+categories:
+    - content strategy
+description: You can't make money off content anymore.
+comments: true
 ---
 
 Print is dead. This is one of those supposed truisms we're all lead to believe. It may or may not actually be true, but if print isn't dead, it's not healthy. This is especially true when it comes to news and information. Magazines and newspapers are failing all over the place.

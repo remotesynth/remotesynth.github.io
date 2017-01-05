@@ -2,7 +2,11 @@
 layout: post
 title:  "Comparing Static Site Engines"
 date:   2015-03-04 09:00:00
-categories: general
+categories:
+    - web development
+    - static sites
+description: A presentation and project for comparing static site generators.
+comments: true
 ---
 
 On February 18, I had the pleasure of gaving a [talk](http://www.meetup.com/sfhtml5/events/219180801/) to the San Francisco HTML5 User Group. The topic was static site engines, covering the basics of what they are and what they are good for (or what they are not good for). The latter half of the session focused on comparing three popular static site engines: [Jekyll](http://jekyllrb.com/), [Middleman](https://middlemanapp.com/) and [Harp](http://harpjs.com/).

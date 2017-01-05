@@ -2,7 +2,11 @@
 layout: post
 title: "Some Advanced Jekyll/Liquid Template Techniques"
 date: "2015-10-02"
-categories: general
+categories:
+  - web development
+  - static sites
+description: This stuff was hard - for me at least!
+comments: true
 ---
 
 Generally speaking, Liquid templates for Jekyll are pretty easy to create - Liquid is a powerful templating tool and offers a large number of helpers and formatters to get complex tasks done. However, recently I had the opportunity to build a site that required me to use some techniques I'd never needed before with Liquid and Jekyll.

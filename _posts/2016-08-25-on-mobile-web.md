@@ -2,7 +2,11 @@
 layout: post
 title: "On The Mobile Web in Mobile Web Weekly"
 date: "2016-08-25"
-categories: general
+categories: 
+    - web development
+    - mobile
+description: Addressing the controversy over the links in Mobile Web Weekly.
+comments: true
 ---
 
 There has been quite a bit of debate stirred lately about the content in the [Mobile Web Weekly newsletter](http://mobilewebweekly.co/) (which I co-edit with Holly Schinsky and is run by Cooper Press). In part, the debate was stirred by a fair question from Paul Irish:

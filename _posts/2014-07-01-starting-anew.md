@@ -3,6 +3,8 @@ layout: post
 title:  "Starting Anew"
 date:   2014-07-01 10:15:47
 categories: general
+description: My blog - starting over from scratch.
+comments: true
 ---
 
 Almost 10 years ago, on January 1, 2005, I started a blog called Remote Synthesis. The name came from synonyms for "Cold" and "Fusion" as ColdFusion development was my primary focus back then. A lot has happened in 10 years.<!--more-->

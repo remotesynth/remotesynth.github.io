@@ -2,7 +2,11 @@
 layout: post
 title:  "Building Static Sites with Node.js and Wintersmith"
 date:   2015-04-08 09:00:00
-categories: general
+categories:
+    - web development
+    - static sites
+description: How to build your first static site with the Wintersmith generator.
+comments: true
 ---
 
 When I've spoken on the topic or even when I posted my recent [guide to getting started with Jekyll](http://developer.telerik.com/featured/getting-started-with-jekyll/),  the question I always get is if there is a comparable static site generator to Jekyll that is built with JavaScript and available on npm. The reason people cite is that they aren't comfortable with Ruby and thus have trouble when they encounter problems with Jekyll or are unable to customize it completely to their needs. Well, there's good and bad news.

@@ -3,6 +3,8 @@ layout: post
 title:  "Boston Festival of Indie Games 2014"
 date:   2014-09-16 09:00:00
 categories: general
+description: My favorite demos from this years Boston Festival of Indie Games.
+comments: true
 ---
 
 This past weekend I had the pleasure of attending the latest [Boston Festival of Indie Games](http://bostonfig.com) at MIT. This was the third year of the event and my second attending. This year, as last, I attended with my two boys (ages 8 and 12). Here are some thoughts on the event and some of the games that I, personally, found interesting.<!--more-->

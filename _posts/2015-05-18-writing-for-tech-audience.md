@@ -2,7 +2,10 @@
 layout: post
 title:  "Tips for Writing for a Tech Audience"
 date:   2015-05-18 09:00:00
-categories: general
+categories:
+    - content strategy
+description: What makes a good article for a developer audience?
+comments: true
 ---
 
 I've been writing articles and blog posts about web development and technology for a long time. The original version of this blog started in 2004, but by that time I'd already written a couple articles for the ultra-prestigious ColdFusion Developer's Journal (it's ok to feel jealous).

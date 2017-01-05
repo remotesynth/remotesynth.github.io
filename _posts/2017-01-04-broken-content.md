@@ -2,7 +2,9 @@
 layout: post
 title: "The Content Model of the Web is Broken - Part 2"
 date: "2017-01-03"
-categories: general
+category: content strategy
+description: Things are not getting any better.
+comments: true
 ---
 
 Almost exactly two years ago, I wrote a post on this blog called "[The Content Model of the Web is Broken](http://www.remotesynthesis.com/general/2015/01/16/content-model-of-web-is-broken/)". My basic argument was that there it had become very difficult to make a viable business out of content anymore. Advertising is not a workable revenue generator - the only real solutions were to produce content that either had ulterior motives (i.e. my content is designed to market some other product or service) or relied entirely on unpaid authors, which devalued writing to a point that the quality is potentially suspect.

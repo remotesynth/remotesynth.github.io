@@ -9,7 +9,7 @@ comments: true
 
 There's a [good post by Ben Vinegar](https://medium.com/@bentlegen/three-tips-for-getting-a-talk-accepted-at-fluent-9eff841efc54#.hgqvl4jjd) suggesting tips for getting accepted to speak at [Fluent Conference](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522). These are all good tips and, as he says, will work for just about any event you want to speak at. It's worth a read.
 
-As someone who has spoken at every Fluent so far, and someone on the conferent committee, I'd add one other important suggestion - **choose a topic where you aren't going to face as much competition**.<!--more-->
+As someone who has spoken at every Fluent so far, and someone on the conference committee, I'd add one other important suggestion - **choose a topic where you aren't going to face as much competition**.<!--more-->
 
 This was a strategy that worked for me even before I joined the committee. Having reviewed proposals the past couple years I can say that whatever the hot framework or library of the moment happens to be will get hundreds of similar proposals. Sure, someone will get picked to talk on that topic, so, if you have a great talk, by all means submit it, but your chances are definitely lower.
 

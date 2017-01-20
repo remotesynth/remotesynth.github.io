@@ -12,7 +12,7 @@ comments: true
 
 So who were the [rising stars for static site generators](https://risingstars2016.js.org/#ssg)? Probably not who you'd expect.
 
-![Rising static site generators](images/posts/rising_ssg_2016.png)
+![Rising static site generators](/images/posts/rising_ssg_2016.png)
 
 Interestingly, for a type of tool where we seem to see a new project almost daily, the majority of these are not new. Hexo, Metalsmith and Harp have all been around for quite some time now. Harp was the most surprising to me since it first appeared in 2012 and hasn't seen a meaningful update in years (it still works as advertised though, in my experience). Gatsby and Phenomic are relatively new (both appearing in 2015) but their appearance is less surprising since they both are based upon the React framework which was what all the cool kids used in 2016 (though, they've since moved on to Vue apparently).
 

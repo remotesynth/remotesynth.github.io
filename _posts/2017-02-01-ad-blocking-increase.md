@@ -8,7 +8,7 @@ description: In other news...perhaps the ad-block apocalypse is still on
 comments: true
 ---
 
-Recently, I [discussed](http://www.remotesynthesis.com/blog/ad-block-apocalypse) that argued that we may have avoided the so-called "ad block apocalypse." Today, a new study may signal quite the opposite. This new study by PageFair [says that ad-blocking increased 30% worldwide year-over-year](https://www.nytimes.com/2017/01/31/technology/ad-blocking-internet.html). I was dubious at the time of the prior article, and this confirms my suspicions that the situation is getting worse.
+Recently, I [discussed an article](http://www.remotesynthesis.com/blog/ad-block-apocalypse) that argued that we may have avoided the so-called "ad block apocalypse." Today, a new study may signal quite the opposite. This new study by PageFair [says that ad-blocking increased 30% worldwide year-over-year](https://www.nytimes.com/2017/01/31/technology/ad-blocking-internet.html). I was dubious at the time of the prior article, and this confirms my suspicions that the situation is getting worse.
 
 The interesting thing in this study is that it gets at the difference in behavior between Asia-Pacififc users versus US/Europe users. It seems that users in the US and Europe are, for the moment, primarily concerned with malware.
 

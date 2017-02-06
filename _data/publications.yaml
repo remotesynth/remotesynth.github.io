@@ -1,3 +1,7 @@
+-   name: "CSS Tricks"
+    articles:
+      - title: "What Really Makes a Static Site Generator?"
+      - URL: "https://css-tricks.com/really-makes-static-site-generator/"
 -   name: "O'Reilly Media"
     articles:
       - title: "Static Site Generators - Modern Tools for Static Website Development"

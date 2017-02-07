@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Twitter Tries to Reign in Abuse"
+title: "Twitter Tries to Rein in Abuse"
 date: "2017-02-07"
 categories:
     - general

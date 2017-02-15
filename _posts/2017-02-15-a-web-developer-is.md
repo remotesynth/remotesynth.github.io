@@ -24,7 +24,7 @@ After which, he acknowledges that it is a "tall order," especially since he also
 
 Now, I have spoken and written many times about the overabundance of tools in web development. Mostly, I focus on not reinventing the wheel rather than judging what dependence on these tools means about you as a developer. However, I'd say that I generally agree with PPK that his definition is what you should _aspire to_.
 
-That being said, I'd argue that _being a real web developer_ is a journey not a destination. It took me nearly a decade to get to a point where I would have said I felt comfortable meeting PPK's definition. And guess what? After about 6 years of focusing on slightly different career roles, I'd say that I no longer fit the definition - despite continuing to develop to varying degrees over those years.
+That being said, I'd argue that _being a real web developer_ is a journey not a destination. It took me nearly a decade to get to a point where I would have said I felt comfortable meeting PPK's definition. And guess what? After about 6 years of focusing on slightly different career roles, I believe that I no longer fit the definition - despite continuing to develop to varying degrees over those years.
 
 The web development world is rapidly changing, thus the real-world definition of a _real web developer_ is constantly changing even if the words themselves remain the same. It is a journey of constant learning. Thus, PPK's focus on tools, I believe, comes from decades of experience. Tools come and go. You cannot rely on your knowledge of the tools in fashion today to carry you through your career as a web developer. Your knowledge will eventually need to be deeper than that to be flexible and survive in this industry.
 

@@ -1,15 +1,17 @@
--   name: "CSS Tricks"
-    articles:
-      - title: "What Really Makes a Static Site Generator?"
-      - URL: "https://css-tricks.com/really-makes-static-site-generator/"
 -   name: "O'Reilly Media"
     articles:
       - title: "Static Site Generators - Modern Tools for Static Website Development"
         URL: "http://www.oreilly.com/web-platform/free/static-site-generators.csp"
-      - title: "Working with Static Sites (co-author with Raymond Camden) -- forthcoming"
+      - title: "Working with Static Sites (co-author with Raymond Camden)"
         URL: "http://shop.oreilly.com/product/0636920051879.do"
+-   name: "CSS Tricks"
+    articles:
+      - title: "What Really Makes a Static Site Generator?"
+      - URL: "https://css-tricks.com/really-makes-static-site-generator/"
 -   name: "Telerik Developer Network"
     articles:
+      - title: "Can Google’s Guetzli JPEG Encoder Help Solve Web Page Bloat?"
+        URL: "http://developer.telerik.com/content-types/opinion/can-googles-guetzli-jpeg-encoder-help-solve-web-page-bloat/"
       - title: "A Guide to Browser Scroll Animations"
         URL: "http://developer.telerik.com/featured/guide-browser-scroll-animations/"
       - title: "Alexa, Can I Use?"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Working with Static Sites Officially Available from O\'Reilly"
-date: "2017-03-10"
+date: "2017-03-21"
 categories:
     - static sites
 description: If you like the feel of print, you got it.

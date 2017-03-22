@@ -4,7 +4,7 @@ title: "Thoughts on the Stack Overflow Developer Survey Results"
 date: "2017-03-22"
 categories:
     - static sites
-description: Lets of interesting details to unpack
+description: Lots of interesting details to unpack
 comments: true
 ---
 

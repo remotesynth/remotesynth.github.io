@@ -10,6 +10,8 @@
       - URL: "https://css-tricks.com/really-makes-static-site-generator/"
 -   name: "Telerik Developer Network"
     articles:
+      - title: "Building a Conversational Bot with JavaScript and Node.js"
+        URL: "http://developer.telerik.com/content-types/tutorials/building-conversational-bot-javascript/"
       - title: "Can Google’s Guetzli JPEG Encoder Help Solve Web Page Bloat?"
         URL: "http://developer.telerik.com/content-types/opinion/can-googles-guetzli-jpeg-encoder-help-solve-web-page-bloat/"
       - title: "A Guide to Browser Scroll Animations"

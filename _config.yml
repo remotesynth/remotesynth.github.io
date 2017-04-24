@@ -46,7 +46,7 @@ author:
   picture:        brian.jpg
   email:          brian.rinaldi@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Brian Rinaldi is the Developer Programs Manager at Telerik on the Developer Relations team where he works on a variety of community programs including the Telerik Developer Network, user groups and events. Brian has been a developer for nearly 20 years, working with front-end and back-end technologies mostly focused on the web. Brian serves as the co-editor of Mobile Web Weekly, authored a report on Static Site Generators for O&#39;Reilly and is co-author of an upcoming book for O&#39;Reilly, also on static site generators.
+  description:    Brian Rinaldi is the Developer Programs Manager at Progress on the Developer Relations team where he works on a variety of community programs including the Telerik Developer Network, user groups and events. Brian has been a developer for nearly 20 years, working with front-end and back-end technologies mostly focused on the web. Brian serves as the co-editor of Mobile Web Weekly, authored a report on Static Site Generators for O&#39;Reilly and  co-author of the Working with Static Sites book, also from O&#39;Reilly.
   # Social networking links used in footer. Update and remove as you like.
   twitter: remotesynth
   facebook:

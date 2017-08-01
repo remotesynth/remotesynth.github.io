@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What the Web Owes Flash"
-date: "2017-04-21"
+date: "2017-07-26"
 categories:
     - web development
 description: Flash helped make the web what it is today.

@@ -176,3 +176,5 @@ There are a ton of useful resources available if you want to delve further, some
 * Smashing Magazine published [A Short Guide To Open Source Licenses](https://www.smashingmagazine.com/2010/03/a-short-guide-to-open-source-and-similar-licenses/) by Cameron Chapman that covers a short list of open source licenses (including the Creative Commons, which I didn't cover here since it typically is not used for code).
 * Wikipedia offers a [table comparing open source licenses](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) that can give you a quick glance over a long list of licenses and requirements.
 * The [tldrlegal](https://eladnava.com/check-your-dependencies-license-requirements-with-tldrlegal/) library aims to give you a quick overview of any licenses within your project's npm dependencies relying on [tldrlegal.com](https://tldrlegal.com/) for simple license explanations.
+
+*Thanks to [TJ VanToll](https://twitter.com/tjvantoll) and [Jeremy Meiss](https://twitter.com/jerdogxda) for reviewing this article for me*

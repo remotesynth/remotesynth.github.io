@@ -33,4 +33,4 @@ I believe that the process of writing is as much a learning process as a sharing
 
 One of the things you learn when you edit a lot of content is how unique each developer's writing voice is. Some are funny while some just focus on the code with as little discussion as necessary. Some give insights into their thought processes while others stick to research.
 
-Even if the code were identical, every individual adds their voice and perspective to the content/presentation. You never know what will end up resonating with someone else. Perhaps your unique take  - so, don't be afraid to add your voice to the conversation, even when someone tells you its been done before.
+Even if the code were identical, every individual adds their voice and perspective to the content. You never know what will end up resonating with someone else. Perhaps your unique take  - so, don't be afraid to add your voice to the conversation, even when someone tells you its been done before.

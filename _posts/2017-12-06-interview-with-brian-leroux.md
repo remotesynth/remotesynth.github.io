@@ -8,6 +8,8 @@ description: Brian Leroux previews his upcoming presentation by discussing why h
 comments: true
 ---
 
+[![The Future of Development](/images/posts/Banner_The-Future-Of-Development.jpg)](https://certifiedfreshevents.com/events/future-of-development/)
+
 [Brian Leroux](https://twitter.com/brianleroux) is one of the featured speakers at [The Future of Development](https://certifiedfreshevents.com/events/future-of-development/) online event that I am running next Friday, December 15 at 12pm ET. You can [sign up for free today](https://certifiedfreshevents.com/events/future-of-development/) .
 
 Brian and I crossed paths when we both worked for Adobe - he was helping to lead PhoneGap and Apache Cordova, both of which fell under my areas of focus within my role at the time. A couple years later, we bumped into each other at PhoneGap Day in Salt Lake City and he told me about his new startup focused on bots, but recently he&#39;s gained a lot of attention for creating a tool called arc.codes for building serverless architectures. In this interview, Brian explains this journey and why serverless matter.

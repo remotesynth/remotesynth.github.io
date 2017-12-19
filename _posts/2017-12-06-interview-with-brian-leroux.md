@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From Cordova to Bots to Serverless - An Interview with Brian Leroux"
-date: "2017-11-01"
+date: "2017-12-06"
 categories:
     - general
 description: Brian Leroux previews his upcoming presentation by discussing why he created arc.codes and why serverless matters.

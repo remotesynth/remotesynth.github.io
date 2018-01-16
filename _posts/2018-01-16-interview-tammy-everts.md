@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Web App Performance Matter and What to Watch Out For - An Interview with Tammy Everts"
+title: "Why Web App Performance Matters and What to Watch Out For - An Interview with Tammy Everts"
 date: "2018-01-16"
 categories:
     - general

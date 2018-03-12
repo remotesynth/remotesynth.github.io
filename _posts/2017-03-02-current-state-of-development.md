@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "The Current State of Development"
-date: "2017-02-27"
+date: "2017-03-02"
 categories:
     - general
 description: Mapping the hype cycle of development technologies
 comments: true
 ---
 
-[Yvo Schaap](https://twitter.com/yvoschaap) has created an interesting new tool he's called [State.Of.Dev](https://stateofdev.com/). The idea behind the tool is that it maps out the state of various web, mobile and general development technologies and languages on something like the Gartner Hype Cycle. Yvo explains the basics behind the idea in [an artile on dev.to](https://dev.to/yvoschaap/stateofdev-visualization-of-the-current-state-of-development).
+[Yvo Schaap](https://twitter.com/yvoschaap) has created an interesting new tool he's called [State.Of.Dev](https://stateofdev.com/). The idea behind the tool is that it maps out the state of various web, mobile and general development technologies and languages on something like the Gartner Hype Cycle. Yvo explains the basics behind the idea in [an article on dev.to](https://dev.to/yvoschaap/stateofdev-visualization-of-the-current-state-of-development).
 
 This is an interesting idea with the caveat that right now, as the article states, the charts are based solely upon Yvo's own opinions and expertise. For example, here is the chart for the [current state of web standards](https://stateofdev.com/c/javascript).
 

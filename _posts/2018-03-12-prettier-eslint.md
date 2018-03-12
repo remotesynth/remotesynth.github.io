@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conforming to JavaScript Code Styles"
-date: "2018-01-29"
+date: "2018-03-12"
 categories:
     - web development
 description: A quick tip on integrating Prettier with ESlint in VS Code.

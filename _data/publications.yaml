@@ -55,12 +55,14 @@
         URL: "http://developer.telerik.com/featured/comparing-static-site-engines/"
 -   name: "Kinvey Blog"
     articles:
-      -
-        title: "Understanding Users in Kinvey"
-        URL: "https://www.kinvey.com/understanding-users-kinvey/"
-      -
-        title: "Using Kinvey's RapidData Connectors"
+      - title: "Developing and Testing of Kinvey Flex Services the Easier Way"
+        URL: "https://www.kinvey.com/developing-and-testing-of-kinvey-flex-services-the-easier-way/"
+      - title: "Enterprise Authentication with Kinvey"
+        URL: "https://www.kinvey.com/enterprise-authentication-kinvey/"
+      - title: "Using Kinvey's RapidData Connectors"
         URL: "https://www.kinvey.com/using-kinveys-rapiddata-connectors/"
+      - title: "Understanding Users in Kinvey"
+        URL: "https://www.kinvey.com/understanding-users-kinvey/"
 -   name: "Mobile Business Insights (IBM)"
     articles:
       -

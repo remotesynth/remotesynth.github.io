@@ -61,6 +61,8 @@ I placed the generated certificate and key file into a folder named ssl in my do
 ln -s /Users/brinaldi/Documents/ssl /Users/brinaldi/Documents/projects/remotesynth.github.io/ssl
 ```
 
+As a side note, you'll want to make sure you don't check this symlink in with your project, so you may want to add it to your .gitignore.
+
 Now you can launch the Jekyll server specifying the certificate and key locations using the symlink.
 
 ```bash

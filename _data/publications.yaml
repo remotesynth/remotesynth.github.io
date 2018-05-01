@@ -55,6 +55,8 @@
         URL: "http://developer.telerik.com/featured/comparing-static-site-engines/"
 -   name: "Progress Blog"
     articles:
+      - title: "Top 4 Developer Featuresin Kinvey"
+        URL: "https://www.progress.com/blogs/top-4-developer-features-in-kinvey"
       - title: "Getting Started with Kinvey FlexServices"
         URL: "https://www.progress.com/blogs/getting-started-with-kinvey-flexservices"
 -   name: "Kinvey Blog"

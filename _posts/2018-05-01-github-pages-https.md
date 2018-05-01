@@ -10,7 +10,7 @@ comments: true
 
 Today [GitHub announced](https://blog.github.com/2018-05-01-github-pages-custom-domains-https/) that custom domains will support HTTPS. This is great news!
 
-As many of you may already know, [GitHub Pages](https://pages.github.com/) was a great way to host static sites. It has built in integration for anyone using [Jekyll](https://jekyllrb.com/) so that it will automatically rebuild your site whenever new code is checked in. However, you could deploy and host any static site, which made it a great solution for things like personal blogs or event sites or project sites.
+As many of you may already know, [GitHub Pages](https://pages.github.com/) was a great (and completely free) way to host static sites. It has built in integration for anyone using [Jekyll](https://jekyllrb.com/) so that it will automatically rebuild your site whenever new code is checked in. However, you could deploy and host any static site, which made it a great solution for things like personal blogs or event sites or project sites.
 
 The drawback, up until now, was that you could not use HTTPS without the support of something like [CloudFlare](https://www.cloudflare.com/), which offers a free account with a shared SSL cert. This is fine for many projects, but not always suitable. For instance, I hosted some event sites for work on GitHub pages, and you had no way to know with whom you shared the SSL cert (which, for a company, could lead to some embarrassment).
 

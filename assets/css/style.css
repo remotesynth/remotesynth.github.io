@@ -101,6 +101,10 @@ a:hover {
   font-size: 21px;
   line-height: 2em;
 }
+li p.lead {
+  font-size: 18px;
+  line-height: 1.71428571;
+}
 /* - Blockquote - */
 blockquote {
   padding-left: 0;

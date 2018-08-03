@@ -48,6 +48,7 @@ Over the past year, I've had over 2,300 people register for my free online event
 * Attend this month's [free meetup on IoT, Bots and AI](https://certifiedfreshevents.com/events/bots-iot-ai/) featuring Tomomi Imura and David Simmons.
 * If you can afford it (at $250), sign up for the [half-day, hands-on IoT training](https://certifiedfreshevents.com/events/building-iot-apps/) being taught by Burke Holland and Brandon Satrom. This includes all the hardware you need (which usually costs $89)
 * If you qualify, apply for one of the 10 [diversity scholarships](https://certifiedfreshevents.com/contact/iot-scholarship/) for the IoT training sponsored by [Microsoft Cloud Developer Advocates](https://developer.microsoft.com/en-us/advocates/index.htm). The scholarship also includes the hardware.
+* Watch one of the [13 free, recorded events](https://certifiedfreshevents.com/recordings/).
 * Follow [Certified Fresh Events on Twitter](https://twitter.com/fresheventsfl). Seriously, I could use the follow as, despite the 2,300 attendees, I am at under 150 follows. As a famous, orange-haired clown might say, "Sad!"
 * If you would like to speak at an upcoming meetup or have topic ideas for one, email me at brian[at]certifiedfreshevents[dot]com.
 

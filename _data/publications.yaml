@@ -7,7 +7,11 @@
 -   name: "CSS Tricks"
     articles:
       - title: "What Really Makes a Static Site Generator?"
-      - URL: "https://css-tricks.com/really-makes-static-site-generator/"
+        URL: "https://css-tricks.com/really-makes-static-site-generator/"
+-   name: "The Practical Developer"
+    articles:
+      - title: "4 Things Developers Take for Granted That Used to Be Really Hard"
+        URL: "https://dev.to/remotesynth/4-things-developers-take-for-granted-that-used-to-be-really-hard-2fd3"
 -   name: "Telerik Developer Network"
     articles:
       - title: "Building a Conversational Bot with JavaScript and Node.js"
@@ -59,6 +63,8 @@
         URL: "https://www.progress.com/blogs/top-4-developer-features-in-kinvey"
       - title: "Getting Started with Kinvey FlexServices"
         URL: "https://www.progress.com/blogs/getting-started-with-kinvey-flexservices"
+      - title: "Fast Start to Serverless Enterprise Apps on Kinvey"
+        URL: "https://www.progress.com/blogs/fast-start-to-serverless-enterprise-apps-on-kinvey"
 -   name: "Kinvey Blog"
     articles:
       - title: "Developing and Testing of Kinvey Flex Services the Easier Way"

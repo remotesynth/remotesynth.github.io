@@ -8,6 +8,10 @@
     articles:
       - title: "What Really Makes a Static Site Generator?"
         URL: "https://css-tricks.com/really-makes-static-site-generator/"
+-   name: "Computerworld AU"
+    articles:
+      - title: "Why tomorrow is the best time to be a developer"
+        URL: "https://www.computerworld.com.au/article/648617/why-tomorrow-best-time-developer/?fp=16&fpid=1"
 -   name: "The Practical Developer"
     articles:
       - title: "4 Things Developers Take for Granted That Used to Be Really Hard"

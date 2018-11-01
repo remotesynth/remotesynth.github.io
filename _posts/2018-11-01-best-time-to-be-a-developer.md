@@ -38,7 +38,7 @@ On a positive note, data cited in this [Wired article](https://www.wired.com/sto
 
 ![computer science college enrollment](/images/posts/state-of-devs/college-enrollment.jpg)
 
-_Image Source: https://www.wired.com/story/computer-science-graduates-diversity/_
+_Image Source: [https://www.wired.com/story/computer-science-graduates-diversity/](https://www.wired.com/story/computer-science-graduates-diversity/)_
 
 Blacks and hispanics are still underrepresented in relation to their share of the US population, but the situation has improved. However, the data also shows that most of the increased representation has been taken by men:
 

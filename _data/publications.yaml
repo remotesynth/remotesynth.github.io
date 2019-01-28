@@ -63,6 +63,8 @@
         URL: "http://developer.telerik.com/featured/comparing-static-site-engines/"
 -   name: "Progress Blog"
     articles:
+      - title: "4 Ways to Serverless with Kinvey"
+        URL: "https://www.progress.com/blogs/4-ways-to-serverless-in-kinvey"
       - title: "Top 4 Developer Features in Kinvey"
         URL: "https://www.progress.com/blogs/top-4-developer-features-in-kinvey"
       - title: "Getting Started with Kinvey FlexServices"

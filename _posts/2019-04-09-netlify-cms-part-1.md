@@ -21,7 +21,7 @@ Once added to your site and properly configured, Netlify CMS offers a simple use
 
 For example, below shows the editing and preview for a very simple "about us" page with very limited "front matter" metadata.
 
-![netlify cms admin wysiwyg](netlifycms-admin.png)
+![netlify cms admin wysiwyg](/images/posts/netlifycms/netlifycms-admin.png)
 
 ## Setting Up Netlify CMS on a New Site
 

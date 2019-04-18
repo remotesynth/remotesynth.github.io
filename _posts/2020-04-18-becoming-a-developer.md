@@ -15,7 +15,7 @@ This fits an unfortunate pattern common in the developer community whereby some 
 
 It's important to consider that each individual's motivations for becoming a developer are not the same. For example, [Evans Data](https://evansdata.com/press/viewRelease.php?pressID=277) found that, on average, women are more likely to be motivated to "develop my skills and challenge myself" while men are more likely to cite wanting the skills to support a startup or new business. Both are legitimate motivations, but can impact an individual approach to education.
 
-In this post, I'm going to lay out the three most common paths to becoming a developer in a broad sense and try to give an even-handed look at the pros and cons of each, from my point of view.
+In this post, I'm going to lay out the three most common educational paths to becoming a developer in a broad sense and try to give an even-handed look at the pros and cons of each, from my point of view.
 
 ## College Degree
 
@@ -56,12 +56,12 @@ Self-taught is a broad category since it covers everything from online classes t
 ### Pros
 
 * **This is the least expensive option** - The cost obviously depends on your choice of learning path. It can be anywhere from $0 if you take advantage of a variety of free online learning options to several hundred dollars to subscribe to courses at [Udemy](https://www.udemy.com/), [CodeAcademy](https://www.codecademy.com) or [Pluralsight](https://www.pluralsight.com), to name a few popular options (based on a yearly subscription or multiple courses).
-* **You are in control** - If you are the dedicated, self-motivated type of person, than the lack of a specific curriculum or time to completion can actually be a big benefit. The "curriculum" is up to you and can focus on your specific areas of interest. How long it takes is really just a matter of your time and dedication, which can be made to fit into a schedule that still accommodates work and/or family.
+* **You are in control** - If you are the dedicated, self-motivated type of person, then the lack of a specific curriculum or time to completion can actually be a big benefit. The "curriculum" is up to you and can focus on your specific areas of interest. How long it takes is really just a matter of your time and dedication, which can be made to fit into a schedule that still accommodates work and/or family.
 
 ### Cons
 
-* **No placement assistance** - What does it take to meet the qualifications necessary to get a job as a developer when you are self-taught? There are no clear guidelines and they are likely to change depending on the company. This is complicated by the fact that you are on your own in terms of job placement while colleges/universities and bootcamps have resources to help you in your job search.
-* **You are in control** - As much as this is a pro, it can also be a con. What's the curriculum? Up to you. How much time do you need to spend? Up to you. How long will it take? That's unclear. If you struggle with motivation or finding the time to complete training and courses independently, being may never gain the momentum necessary to get you to the point that you are ready to start your career.
+* **No placement assistance** - What does it take to meet the qualifications necessary to get a job as a developer when you are self-taught? There are no clear guidelines and they are likely to change depending on the company. This is complicated by the fact that you are on your own in terms of job placement while colleges/universities and bootcamps have resources and recruiting partnerships to help you in your job search.
+* **You are in control** - As much as this is a pro, it can also be a con. What's the curriculum? Up to you. How much time do you need to spend? Up to you. How long will it take? That's unclear. If you struggle with motivation or finding the time to complete training and courses independently, you may never gain the momentum necessary to get you to the point that you are ready to start your career.
 
 It's probably worth mentioning that the self-taught option is something that can be combined with any of the other options, especially as the costs are low. In fact, it should become part of any developers continuing education throughout there career, regardless of how many years you spend in development.
 

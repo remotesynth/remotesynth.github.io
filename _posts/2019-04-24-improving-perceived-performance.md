@@ -8,7 +8,7 @@ description: A look at two libraries designed to help improve the perceived perf
 comments: true
 ---
 
-There will always be a difference between how you site actually performs versus how people perceive it to be performing. This perceived performance is impacted by any number of factors, some of which you have no control over, from network or connection speed to simply differing user expectations. Actual site performance is something you largely have control over as a developer, but how your site is perceived to be performing by the end user is, for the most part, beyond your control.
+There will always be a difference between how your site actually performs versus how people perceive it to be performing. This perceived performance is impacted by any number of factors, some of which you have no control over, from network or connection speed to simply differing user expectations. Actual site performance is something you largely have control over as a developer, but how your site is perceived to be performing by the end user is, for the most part, beyond your control.
 
 That's why some new projects fascinate me. They attempt to improve that perceived performance by the end user by using different methods to prefetch the content they may load to allow it to load _before_ they want it.
 

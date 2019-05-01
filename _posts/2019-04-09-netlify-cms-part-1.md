@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "A Fresh Look at Netlify CMS (Part 1)"
-date: "2019-04-09"
+title: A Fresh Look at Netlify CMS (Part 1)
+date: '2019-04-09'
 categories:
-    - static sites
-    - web development
-description: Getting started with Netlify CMS on project using a fresh install.
+  - static sites
+  - web development
+  - general
 comments: true
 ---
 

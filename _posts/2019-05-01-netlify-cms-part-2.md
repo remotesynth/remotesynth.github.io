@@ -105,7 +105,7 @@ Once I reload the admin now in local testing I get this screen to set the site's
 
 ![local testing](/images/posts/netlifycms2/local-testing.png)
 
-However, once that is done I still cannot log in because I have not actually invited myself to be an admin in the CMD. I go back in the admin do that but one issue I ran into is that I couldn't accept the invite without pushing the admin live or copying/modifying the URL linked in the confirmation email as the link went to the live URL. I should also note that even local tests will push changes to GitHub and post content live, so be careful (you can enable the [editorial workflow](https://www.netlifycms.org/docs/add-to-your-site/#editorial-workflow) if you want to prevent pages from automatically going live).
+However, once that is done I still cannot log in because I have not actually invited myself to be an admin in the CMS. I go back in the admin do that but one issue I ran into is that I couldn't accept the invite without pushing the admin live or copying/modifying the URL linked in the confirmation email as the link went to the live URL. I should also note that even local tests will push changes to GitHub and post content live, so be careful (you can enable the [editorial workflow](https://www.netlifycms.org/docs/add-to-your-site/#editorial-workflow) if you want to prevent pages from automatically going live).
 
 To invite myself I go to Identity in the Netlify admin and "Invite Users."
 

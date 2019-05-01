@@ -111,6 +111,10 @@ To invite myself I go to Identity in the Netlify admin and "Invite Users."
 
 ![invite users](/images/posts/netlifycms2/invite-users.png)
 
+To complete the process, I register using the invite.
+
+![register](/images/posts/netlifycms2/complete-signup.png)
+
 Once all of these changes are pushed live, I am already able to add and edit posts!
 
 ![editing posts](/images/posts/netlifycms2/posts.png)

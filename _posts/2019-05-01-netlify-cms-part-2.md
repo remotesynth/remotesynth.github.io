@@ -87,7 +87,7 @@ Next I need to make identity invite only under settings. The Netlify free accoun
 
 ![enable invite only](/images/posts/netlifycms2/invite-only.png)
 
-You can optionally allow third-party authentication (example: Google authentication) but, since this is my blog alone, I stuck with basic netlify authentication.
+You can optionally allow third-party authentication (example: Google authentication) but, since this is my blog alone, I stuck with basic Netlify authentication.
 
 I also need to enable the git gateway that I mentioned earlier in the configuration (this is also under settings).
 
@@ -105,7 +105,7 @@ Once I reload the admin now in local testing I get this screen to set the site's
 
 ![local testing](/images/posts/netlifycms2/local-testing.png)
 
-However, once that is done I still cannot log in because I have not actually invited myself to be an admin in the CMS. I go back in the admin do that but one issue I ran into is that I couldn't accept the invite without pushing the admin live or copying/modifying the URL linked in the confirmation email as the link went to the live URL. I should also note that even local tests will push changes to GitHub and post content live, so be careful (you can enable the [editorial workflow](https://www.netlifycms.org/docs/add-to-your-site/#editorial-workflow) if you want to prevent pages from automatically going live).
+However, once that is done I still cannot log in because I have not actually invited myself to be an admin in the CMS. I go back in the Netlfiy admin do that (one very minor issue I ran into is that I couldn't accept the invite without pushing the admin live or copying/modifying the URL linked in the confirmation email as the link went to the live URL). I should also note that even local tests will push changes to GitHub and post content live, so be careful (you can enable the [editorial workflow](https://www.netlifycms.org/docs/add-to-your-site/#editorial-workflow) if you want to prevent pages from automatically going live).
 
 To invite myself I go to Identity in the Netlify admin and "Invite Users."
 
@@ -226,4 +226,4 @@ The editor is a bit more complex for obvious reasons.
 
 I should emphasize that I did not cover anywhere near all the configuration options and features in Netlify CMS. This was all really just the basics. However, all in all, I reiterate the feelings I expressed in the first part of this series - Netlify CMS has really come a _long_ way. For many sites, the editing capabilities it provides are more than sufficient and, as a developer, it was pretty easy to get up and running - both as a new install and adding to an existing site.
 
-Importantly, Netlify is maintaining this as an open source project, meaning that you can [contribute](https://www.netlifycms.org/docs/contributor-guide/ or [fork it](https://github.com/netlify/netlify-cms) (it's under an MIT license). This is already encouraging new tools that utilize the CMS features. In a follow up post to this series, I'll take a look at one of them that has just been released.
+Importantly, Netlify is maintaining this as an open source project, meaning that you can [contribute](https://www.netlifycms.org/docs/contributor-guide/) or [fork it](https://github.com/netlify/netlify-cms) (it's under an MIT license). This is already encouraging new tools that utilize the CMS features. In a follow up post to this series, I'll take a look at one of them that has just been released.

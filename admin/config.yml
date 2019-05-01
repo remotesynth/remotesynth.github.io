@@ -32,7 +32,7 @@ collections:
     label: "Data"
     files:
       - name: "videoslist"
-        label: "Videos List"
+        label: "Videos"
         file: "_data/videos.yaml"
         fields:
           - name: "videos"
@@ -43,7 +43,7 @@ collections:
               - {label: "Title", name: "title", widget: "string"}
               - {label: "URL", name: "URL", widget: "string"}
       - name: "pubslist"
-        label: "Publications List"
+        label: "Publications"
         file: "_data/publications.yaml"
         fields:
           - name: "publications"
@@ -57,3 +57,17 @@ collections:
                 fields:
                   - {label: "Title", name: "title", widget: "string"}
                   - {label: "URL", name: "URL", widget: "string"}
+      - name: "presoslist"
+        label: "Presentations"
+        file: "_data/presentations.yaml"
+        fields:
+          - name: "presentations"
+            label: "Presentations"
+            widget: list
+            fields:
+              - {label: "Month Year", name: "name", widget: "string"}
+              - name: "presentations"
+                label: "Presentations"
+                widget: list
+                fields:
+                  - {label: "Title", name: "title", widget: "string"}

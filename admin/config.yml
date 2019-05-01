@@ -50,7 +50,7 @@ collections:
             label: "Publications"
             widget: list
             fields:
-              - {label: "Name", name: "name", widget: "string"}]
+              - {label: "Name", name: "name", widget: "string"}
               - name: "articles"
                 label: "articles"
                 widget: list

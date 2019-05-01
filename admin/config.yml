@@ -28,3 +28,13 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+  - name: "data"
+    label: "Data"
+    files:
+      - name: "videos"
+        label: "Videos List"
+        file: "_data/videos.yaml"
+        fields:
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "URL", name: "URL", widget: "string"}

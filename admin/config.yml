@@ -31,10 +31,14 @@ collections:
   - name: "data"
     label: "Data"
     files:
-      - name: "videos"
+      - name: "videoslist"
         label: "Videos List"
         file: "_data/videos.yaml"
         fields:
-          - {label: "Name", name: "name", widget: "string"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "URL", name: "URL", widget: "string"}
+          - name: "videos"
+            label: "Videos"
+            widget: list
+            fields:
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "URL", name: "URL", widget: "string"}

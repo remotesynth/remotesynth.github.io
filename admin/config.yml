@@ -54,5 +54,6 @@ collections:
               - name: "articles"
                 label: "articles"
                 widget: list
-                - {label: "Title", name: "title", widget: "string"}
-                - {label: "URL", name: "URL", widget: "string"}
+                fields:
+                  - {label: "Title", name: "title", widget: "string"}
+                  - {label: "URL", name: "URL", widget: "string"}

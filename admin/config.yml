@@ -17,3 +17,8 @@ collections:
       - {label: "Description", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Comments", name: "comments", widget: "hidden", default: "true"}
+  - name: "publications"
+    label: "Publications"
+    file: "_data/publications.yaml"
+    fields:
+      - {label: "Name", name: "name", widget: "string"}

@@ -5,7 +5,6 @@ date: '2019-04-09'
 categories:
   - static sites
   - web development
-  - general
 comments: true
 ---
 

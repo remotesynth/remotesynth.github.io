@@ -113,7 +113,7 @@ To invite myself I go to Identity in the Netlify admin and "Invite Users."
 
 Once all of these changes are pushed live, I am already able to add and edit posts!
 
-![editing posts](posts.png)
+![editing posts](/images/posts/netlifycms2/posts.png)
 
 ## Editing Pages and Data
 

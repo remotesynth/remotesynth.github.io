@@ -110,7 +110,7 @@ menu:
     name: "April 2019"
 ```
 
-This says that it is in the main menu, under "events" (which is the identifier for the "Recorded Events" menu item). Now I just need to iterate through the most recent 10 (Hugo seems to default to a reverse date order when a weight isn't specified, though I didn't see this specifically documented).
+This says that it is in the main menu, under "events" (which is the identifier for the "Recorded Events" menu item). Now I just need to iterate through the most recent 10, so I use a sort to sort on the child page object's date descending.
 
 ```html
 {% raw %}{{ $currentPage := . }}
@@ -120,7 +120,8 @@ This says that it is in the main menu, under "events" (which is the identifier f
     <a href="{{ .URL }}">{{ .Name }}</a>
     {{ if .HasChildren }}
     <ul class="nav__dropdown-menu">
-        {{ range first 10 .Children }}
+        {{ $children := sort .Children ".Page.Date" "desc" }}
+        {{ range first 10 $children }}
         <li><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
         {{ if gt .Children 10 }}

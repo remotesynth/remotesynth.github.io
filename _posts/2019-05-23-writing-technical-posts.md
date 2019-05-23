@@ -60,4 +60,4 @@ Here are some tips for being yourself and knowing your audience:
 
 ## What are your suggestions?
 
-As I noted in the intro, Wade Christensen has an [outstanding post on this topic](https://dev.to/astuteape/a-guide-to-better-technical-writing-1mdg) as well that has some really good suggestions. How about you? Do you have any suggestions based on your experiences about how to write better technical content?
+As I noted in the intro, Wade Christensen has an [outstanding post on this topic](https://dev.to/astuteape/a-guide-to-better-technical-writing-1mdg) as well that has some really good suggestions that delves deeper into topics around grammar and language. How about you? Do you have any suggestions based on your experiences about how to write better technical content?

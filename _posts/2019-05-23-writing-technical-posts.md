@@ -14,7 +14,7 @@ In this article, I want to go over a few things that I have learned that may be 
 
 > I first wrote about this topic [4 years ago](https://remotesynthesis.com/blog/writing-for-tech-audience) but thought it worth revisiting.
 
-> NOTE: As I was preparing to post this, [Wade Christensen posted on the same topic](https://dev.to/astuteape/a-guide-to-better-technical-writing-1mdg) but with slightly different angles. I think he offers some excellent advice and that our advice doesn't really overlap to any great degree. So read his post as well!
+> NOTE: As I was preparing to post this, I found that [Wade Christensen posted on the same topic](https://dev.to/astuteape/a-guide-to-better-technical-writing-1mdg) but with slightly different angles. I think he offers some excellent advice and that our advice doesn't really overlap to any great degree. So read his post as well!
 
 ## Make Your Intentions Clear
 

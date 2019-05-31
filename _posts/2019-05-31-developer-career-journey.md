@@ -1,3 +1,4 @@
+---
 layout: post
 title: A Developer Career Doesn't Have to Be Linear
 date: '2019-05-31'

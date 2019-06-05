@@ -27,6 +27,6 @@ Let's think about a simple example. 10 years ago, developers were building simpl
 
 ## No Easy Answers
 
-I' not writing this post because I have any answers to those questions. In many ways, I am insulated in my role from some of the more difficult moral dilemmas...or, at least, like to believe I am. I do think about them a lot, especially given calls to break up big tech, which, regardless of how effective you think it will be, only addresses the problem in hindsight - as in, it is in part an attempt to repair the fact that the things we helped build were misused but doesn't help address the issue of the things we are currently building (which is what the code of ethics is trying partly hoping to do).
+I' not writing this post because I have any answers to those questions. In many ways, I am insulated in my role from some of the more difficult moral dilemmas...or, at least, like to believe I am. I do think about them a lot. This is especially true given calls to break up big tech, which, regardless of how effective you think it will be, only addresses the problem in hindsight - as in, it is in part an attempt to repair the fact that the things we helped build were misused but doesn't help address the issue of the things we are currently building (which is what the code of ethics is hoping to do).
 
 At the risk of dragging you down the rabbit hole with me, what are your thoughts on the ethical considerations that developers face? Have you faced an ethical dilemma? How did you handle it?

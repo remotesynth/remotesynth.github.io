@@ -2,7 +2,7 @@
 layout: post
 title: Using Netlify to the Fullest
 date: '2019-06-14'
-description: Finally taking advantage of some of the platforms more advanced features.
+description: Finally taking advantage of some of the platform's more advanced features.
 categories:
   - static sites
   - web development

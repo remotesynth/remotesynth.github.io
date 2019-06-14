@@ -45,7 +45,7 @@ I won't go into great detail on what I did, largely because my good friend Raymo
 
 ## Scheduling Deploys
 
-The last feature that I want to discuss isn't really a built-in feature of Netlify per se. As my content is very date sensitive, I wanted to have the site continuously rebuilt so that the date information doesn't become stale. In addition, I have random items displayed in some spots on the home page, which also requires a rebuild. So what I needed was to ensure that the site regularly rebuilds itself without requiring my direct intervention.
+The last feature that I want to discuss isn't really a built-in feature of Netlify per se. As my content is very date sensitive, I wanted to have the site continuously rebuilt so that the date information doesn't become stale (for example, an upcoming event may have text that says "in 12 days"). In addition, I have random items displayed in some spots on the home page, which also requires a rebuild since the random items are chosen at build time. So what I needed was to ensure that the site regularly rebuilds itself without requiring my direct intervention.
 
 Luckily, Netlify has pre-built integration with [Zapier](https://zapier.com). Zapier isn't free, but, for this sort of task, you're unlikely to hit their free account limits. It's a very simple two-step "Zap" that uses Zapier's Schedule to trigger a deploy every night at midnight (truthfully, the time doesn't matter that much from a Netlify standpoint since the build occurs in the background, but midnight made sense since the dates would change, thereby changing the date math).
 

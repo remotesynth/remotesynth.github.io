@@ -60,7 +60,7 @@ This is referred to as the [temporal dead zone](https://developer.mozilla.org/en
 
 The final important thing to note about `const` in JavaScript is, as discussed earlier:
 
-> The const *declaration* creates a read-only reference to a value. It does *not* mean the value it holds is immutable, just that the variable identifier cannot be reassigned.
+> The const *declaration* creates a read-only reference to a value. It does *not* mean the value it holds is immutable, just that the variable identifier cannot be reassigned. ([source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const))
 
 Again, this is where the confusion around `const` seems to emanate from. If you are using `const` with [JavaScript primitive types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values) (i.e. boolean, number, string, etc.), it'll behave the way you might expect (any reassignment generates an error). But, when using `const` with [JavaScript objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Objects) (including arrays, functions, etc.), that object is still mutable, meaning properties of that object can still be changed.
 

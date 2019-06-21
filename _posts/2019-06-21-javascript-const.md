@@ -50,7 +50,7 @@ It's at this point that computer science folks will get into the concepts of pri
 
 The `const` keyword was added to JavaScript in ES6 (aka ES2015). Previously, the common convention was to use a standard variable but with an all-caps name like `MY_CONSTANT`. This didn’t effect whether the variable could be changed - it was more a hint to tell developers that it shouldn’t be changed.
 
-JavaScript constants declared with `const` can either be global scoped or block scoped. If they are within a block (i.e. between `{` and `}`) they are automatically block scoped. If they are not within a block, they are global scoped, but, unlike variables declared with `var`, do not become properties of the window object.
+JavaScript constants declared with `const` can either be global scoped or block scoped. If they are within a block (i.e. between `{` and `}`) they are automatically block scoped. If they are not within a block, they are global scoped, but, unlike variables declared with `var`, do not become properties of the window object. If they are in a module, variables declared with `const` outside of a block will be global scoped to that module.
 
 Another interesting difference between `const` and `var` is that they are [hoisted](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting) differently. When you declare a variable using `const` or `let`, the declaration is hoisted, but its value is not initialized as `undefined`, thus you will get a reference error if you try to access it prior to the declaration. As you can see below, the first `console.log` referencing a variable defined with `var` returns `undefined` but the second using `const` generates an error.
 
@@ -64,7 +64,7 @@ The final important thing to note about `const` in JavaScript is, as discussed e
 
 Again, this is where the confusion around `const` seems to emanate from. If you are using `const` with [JavaScript primitive types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values) (i.e. boolean, number, string, etc.), it'll behave the way you might expect (any reassignment generates an error). But, when using `const` with [JavaScript objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Objects) (including arrays, functions, etc.), that object is still mutable, meaning properties of that object can still be changed.
 
-For a more detailed look at scoping around `let` and `const`, check out "[Variables and scoping in ECMAScript 6](http://2ality.com/2015/02/es6-scoping.html)" by Axel Rauschmayer.
+For a more detailed look at scoping around `let` and `const`, there is a whole chapter in "[JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/ch_variables-assignment.html#const)" on `let` and `const` by Axel Rauschmayer.
 
 ## Should You Use Const?
 

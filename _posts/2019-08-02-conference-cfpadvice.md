@@ -47,7 +47,7 @@ Dawn said:
 > - Abstracts were missing clear audience takeaways. The attendees are coming to the event to learn. If the selection committee can’t see what the audience will learn, your submission is less likely to be successful. Including a sentence as simple as “Key takeaways from this talk... “ or “Come learn…” can help. You don’t need to give all the details away but a high-level summary is helpful. Also remember that you can provide more detail in the reviewer notes.
 > - The abstract read like the speaker’s bio. While it’s great for the speakers’ experience to inform their talk, we want to center the audience & how the talk can help them. [Aja Hammerly](https://twitter.com/the_thagomizer) offers some good examples on how to write an abstract with the attendee at the center.
 
-## Floyd Marinescu, Organizer of [QCon](https://qconferences.com/) around the world
+## [Floyd Marinescu](https://twitter.com/floydmarinescu), Organizer of [QCon](https://qconferences.com/) around the world
 
 Floyd offered some advice along with an example:
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips for Writing a Great Conference Talk Proposal from Conference Organizers
+title: How to Write a Great Conference Talk Proposal from Conference Organizers
 date: '2019-08-02'
 description: Advice and resources from conference organizers on how to create a compelling talk proposal
 categories:

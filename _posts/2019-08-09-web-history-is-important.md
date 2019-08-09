@@ -31,6 +31,6 @@ The importance of the history of the web is why I created [Flashback Conference]
 
 [![Flashback Conference](/images/posts/flashback.jpg)](https://flashback.dev)
 
-The conference will be in Orlando (my hometown) on February 10-11, 2020. I really think this will be an amazing and fun event, and I've already got some fantastic speakers and sponosrs lined up and ticket are already on sale. I realy hope you'll join us.
+The conference will be in Orlando (my hometown) on February 10-11, 2020. I really think this will be an amazing and fun event, and I've already got some fantastic speakers and sponsors lined up and ticket are already on sale. I realy hope you'll join us.
 
 Also, if you love this topic as much as I do, I highly recommend Jay Hoffman's [History of the Web newsletter](https://thehistoryoftheweb.com/) (and Jay will also be speaking at Flashback Conference).

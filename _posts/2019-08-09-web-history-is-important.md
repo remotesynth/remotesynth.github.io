@@ -29,7 +29,7 @@ Understanding the history improves the depth of your understanding of the web pl
 
 The importance of the history of the web is why I created [Flashback Conference](https://flashback.dev), which is dedicated to covering new features, tools and frameworks on the web platform while also understanding the history behind them.
 
-![Flashback Conference](/images/posts/flashback.jpg)
+[![Flashback Conference](/images/posts/flashback.jpg)](https://flashback.dev)
 
 The conference will be in Orlando (my hometown) on February 10-11, 2020. I really think this will be an amazing and fun event, and I've already got some fantastic speakers and sponosrs lined up and ticket are already on sale. I realy hope you'll join us.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Knowing the Web's History is Critical to Its Present and Future
 date: '2019-08-09'
-description: Understanding the history of the web will help guide you to the its future. 
+description: Understanding the history of the web will help guide you to its future. 
 categories:
   - general
   - web development
@@ -33,4 +33,4 @@ The importance of the history of the web is why I created [Flashback Conference]
 
 The conference will be in Orlando (my hometown) on February 10-11, 2020. I really think this will be an amazing and fun event, and I've already got some fantastic speakers and sponosrs lined up and ticket are already on sale. I realy hope you'll join us.
 
-Also, if you love this topic as much as I do, I highly recommend Jay Hoffman's [History of the Web newsletter](https://thehistoryoftheweb.com/) (and Jay will be speaking at Flashback Conference).
+Also, if you love this topic as much as I do, I highly recommend Jay Hoffman's [History of the Web newsletter](https://thehistoryoftheweb.com/) (and Jay will also be speaking at Flashback Conference).

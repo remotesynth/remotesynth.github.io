@@ -25,8 +25,6 @@ _The implicit flow expressed entirely in emoji_
 
 1. The application requests authorization from the user
 1. The user authorizes the request
-1. The application receives the grant
-1. The application requests a token from the authorization server
 1. The authorization server issues an access token via the redirect URI
 1. The application uses the token to call the API
 

@@ -61,7 +61,7 @@ _The PKCE flow expressed entirely in emoji_
 1. The code challenge is sent to the authorization server and the user authenticates
 1. The authorization server stores the code challenge and returns a code to the application
 1. Application sends the code and code verifier to authorization server via a POST request
-1. The authorization server verifies the code challenge and issues an access token via a POST response
+1. The authorization server verifies the code challenge/code verifier and issues an access token via a POST response
 1. The application uses the token to call the API
 
 While the PKCE flow is clearly more complicated, there are some key differences to notice. First, there is no preconfigured secret. Instead PKCE uses a cryptographically random code verifier that is generated for each request. There is also no redirect to intercept. A "man in the middle" attack could only steal the authorization code but won't have access to a valid token, and because there is no redirect, there is also no browser history potentially containing a valid token.

@@ -16,7 +16,7 @@ Multiple times from multiple people I've heard the M in [JAMStack](https://jamst
 
 However, the M is actually for _mark**up**_. Markup is a much broader term that encompasses Markdown, which is a lightweight form of markup. There are other similar types of lightweight markup that some static site generator tools support including [AsciiDoc](http://asciidoc.org/) and [LaTeX](https://www.latex-project.org/about/). HTML is also markup (it's in the name after all - Hypertext _Markup_ Language).
 
-But Markup in the JAMStack sense is more than just Markdown or HTML. A key part of that is combining these markup languages with templating. So, for instance, Jekyll uses [Liquid](https://shopify.github.io/liquid/), [Hugo](https://gohugo.io/) uses [Go Templating](https://shopify.github.io/liquid/) and many others use [Handlebars](https://handlebarsjs.com/) or something similar. This is part of the magic that turns what would otherwise be static files into something that can generate an entire web site filled with content that can then be deployed as HTML, CSS and JavaScript.
+But Markup in the JAMStack sense is more than just Markdown or HTML. A key part of that is combining these markup languages with templating. So, for instance, Jekyll uses [Liquid](https://shopify.github.io/liquid/), [Hugo](https://gohugo.io/) uses [Go Templating](https://golang.org/pkg/text/template/) and many others use [Handlebars](https://handlebarsjs.com/) or something similar. This is part of the magic that turns what would otherwise be static files into something that can generate an entire web site filled with content that can then be deployed as HTML, CSS and JavaScript.
 
 ## M is for More
 

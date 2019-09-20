@@ -58,7 +58,7 @@ This is compounded by a slow or completely broken communication process.
 
 > I've gone through half-day to full-day interviews called "running the gauntlet" only to wait a month for them to say no or nothing at all. It's a part of the process and we all get over it. (shrug) Still, it's frustrating when you have to use precious vacation time to go on interviews that lead nowhere.
 > 
-> - Milecia McG [The Crazy Job Search Process](https://dev.to/flippedcoding/the-crazy-job-search-process-om6)
+> - Milecia McG, [The Crazy Job Search Process](https://dev.to/flippedcoding/the-crazy-job-search-process-om6)
 
 Often the communication breakdown seems to break down for a candidate who isn't continuing in the process, which is certainly unfair to the candidate left hanging. However, not infrequently, the communication is poor or nonexistent even for candidates who are moving to the next stage but are often left to wait weeks before that is communicated.
 
@@ -98,7 +98,7 @@ The combination of screening, testing and time can mean companies hiring process
 >
 > But really take a long look at whether this selects the right candidates.
 > 
-> - Zach Holman [Startup Interviewing is F****d](http://zachholman.com/posts/startup-interviewing-is-fucked/)
+> - Zach Holman, [Startup Interviewing is F****d](http://zachholman.com/posts/startup-interviewing-is-fucked/)
 
 As Zach notes, this is a difficult problem to solve, which may explain why the system seems to be currently supported by a combination of "that's the way we've always done it" and "that's the way everyone else is doing it." This reasoning gives companies the excuses they need to avoid taking a hard look at their processes to see if they are actually achieving the goals they are supposedly designed to achieve. Most companies seem to believe that, at worst, this system gives them a ton of false negatives but not false positives.
 

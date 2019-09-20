@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Wrong with the Tech Interview Process?
+title: What's Wrong with the Tech Interview Process?
 date: '2019-09-20'
 description: Their is widespread belief that the tech interview process is broken but little in the way of movement to change it.
 categories:

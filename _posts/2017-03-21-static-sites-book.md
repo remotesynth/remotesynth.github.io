@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Working with Static Sites Officially Available from O\'Reilly"
+title: "Working with Static Sites Officially Available from O'Reilly"
 date: "2017-03-21"
 categories:
     - static sites

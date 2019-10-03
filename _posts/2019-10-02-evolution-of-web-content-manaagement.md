@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Evolution of Web Content Management
-date: '2019-09-20'
+date: '2019-10-02'
 description: A look at the evolution of web content management from the early days of the web to the headless, cloud-based CMS systems of today.
 categories:
   - web development

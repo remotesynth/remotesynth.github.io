@@ -1,4 +1,10 @@
 presentations:
+      - name: "November 2019"
+        presentations:
+            - title: "Orlando Devs - Getting Started with the JAMstack"
+      - name: "October 2019"
+        presentations:
+            - title: "Connect.Tech - Whither Wordpress? Static CMS are Finally Ready to Shine!"
       - name: "November 2018"
         presentations:
             - title: "DevReach - Strategies for Offline Data in Web Apps"

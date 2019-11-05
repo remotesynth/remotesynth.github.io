@@ -21,6 +21,10 @@ publications:
     articles:
       - title: "4 Things Developers Take for Granted That Used to Be Really Hard"
         URL: "https://dev.to/remotesynth/4-things-developers-take-for-granted-that-used-to-be-really-hard-2fd3"
+  - name: "Stackbit Blog"
+    articles:
+      - title: "Own Your Content, Broaden Your Audience"
+        URL: "https://www.stackbit.com/blog/devto-stackbit/"
   - name: "Telerik Developer Network"
     articles:
       - title: "Building a Conversational Bot with JavaScript and Node.js"

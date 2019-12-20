@@ -8,7 +8,7 @@ categories:
 comments: true
 ---
 
-The [latest State of JS survey results](https://2019.stateofjs.com/) are out. As always, survey results need to be taken with a grain of salt. There is always a bit of [selection bias](https://en.wikipedia.org/wiki/Selection_bias) involved in these sorts of surveys whereby certain groups tend to be far more likely to respond. These concerns are somewhat reinforced by the surveys own reporting wherein almost 70% of respondents came from 3 sources.
+The [latest State of JS survey results](https://2019.stateofjs.com/) are out. As always, survey results need to be taken with a grain of salt. There is always a bit of [selection bias](https://en.wikipedia.org/wiki/Selection_bias) involved in these sorts of surveys whereby certain groups tend to be far more likely to respond. These concerns are somewhat reinforced by the survey's own reporting wherein almost 70% of respondents came from 3 sources.
 
 [![State of JavaScript response source](/images/posts/state-of-js-2019/source_sm.png)](https://2019.stateofjs.com/demographics/#source)
 
@@ -66,7 +66,7 @@ Most of the data in the [opinions](https://2019.stateofjs.com/opinions/) section
 
 I thought the percentage would be higher. But I suppose we've already learned that a big chunk of respondents area apparently experts in everything related to the web, so maybe I shouldn't have been surprised.
 
-Notably, the percentage of folks who think JavaScript is changing too fast has dropped, even though technically the language changes every year now. This doesn't terribly surprise me. ES6 was a major shift that took folks time to adjust to. However, recent changes are much less dramatic. I also feel as though the sense that their is a new framework every week has cooled.
+Notably, the percentage of folks who think JavaScript is changing too fast has dropped, even though technically the language changes every year now. This doesn't terribly surprise me. ES6 was a major shift that took folks time to adjust to. However, recent changes are much less dramatic. I also feel as though the sense that there is a new framework every week has cooled.
 
 [![Ecosystem rate of change](/images/posts/state-of-js-2019/js_ecosystem_changing_to_fast_sm.png)](https://2019.stateofjs.com/opinions/#js_ecosystem_changing_to_fast)
 

@@ -11,7 +11,7 @@ comments: true
 
 Working on a recent project, I've come across several items that were either not well documented or slightly complex - though perhaps calling them "advanced" overstates the case. In this case, we'll cover using multiple filters on a single value, using Liquid in Markdown, custom sorting posts and displaying posts by category. I'm sure there may be different (even better) solutions to what I describe here, but I share because these worked for me (and might for you too).
 
-> In case you missed it, I published my original [Advanced Jekyll/Liquid Template Techniques](http://www.remotesynthesis.com/general/2015/10/02/advanced-jekyll-templates/) about a year ago that covers determining if a category has posts (and how many), assigning variables, using variables in an include and, finally, dynamically loading data based on a variable.<!--more-->
+> In case you missed it, I published my original [Advanced Jekyll/Liquid Template Techniques](https://remotesynthesis.com/blog/advanced-jekyll-templates) about a year ago that covers determining if a category has posts (and how many), assigning variables, using variables in an include and, finally, dynamically loading data based on a variable.<!--more-->
 
 ## Use Multiple Filters on a value
 

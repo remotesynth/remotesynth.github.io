@@ -14,7 +14,7 @@ Last week, when asked for to share a contrarian position, Nicole Sullivan posted
 
 Needless to say, the people who love to hate JAMstack loved it and the rest of us (who love to love JAMstack I suppose) were more than a bit put off.
 
-The thing is, Nicole is not entirely wrong. The JAMstack term was, in fact, all about branding. It was created by the folks at Netlify in 2016 as a way of rebranding what, until then, we'd called "static sites." We've seen enough of this kind of rebranding before in the developer ecosystem to be skeptical - such as when Netscape famously changed the name of LiveScript to JavaScript in order to capitalize on branding opportunities with Sun's Java despite the lack of any real-world connection between the two. But, I'd argue that in the case of static sites to JAMstack, the goal wasn't to manipulate developers with empty marketing jargon, but to make the name _more_ appropriate to the solution.
+The thing is, Nicole is not wrong. The JAMstack term was, in fact, all about branding. It was created by the folks at Netlify in 2016 as a way of rebranding what, until then, we'd called "static sites." We've seen enough of this kind of rebranding before in the developer ecosystem to be skeptical - such as when Netscape famously changed the name of LiveScript to JavaScript in order to capitalize on branding opportunities with Sun's Java despite the lack of any real-world connection between the two. But, I'd argue that in the case of static sites to JAMstack, the goal wasn't to manipulate developers with empty marketing jargon, but to make the name _more_ appropriate to the solution.
 
 ## What's Wrong with Static Sites?
 
@@ -26,7 +26,7 @@ The truth is that for a long time, they were by and large _static sites_. When I
 2. Low Degree of User Interactivity - sure APIs existed at the time, but adding something like a login or a shopping cart to a static site was complex and, largely, the services to support that didn't yet exist or were in their infancy.
 3. Update Infrequently - building and deploying these sites was cumbersome and slow. Services like Netlify were new, so a the time most were deployed via FTP.
 
-As you can see, these do not apply in any way to the modern JAMstack. That's because static sites described only an end result (static files) and JAMstack is about a way of building sites that, while deployed as static files, are far, far from static either in the build process or in the end result.
+As you can see, these do not apply in any way to the modern JAMstack. That's because static sites described only an end result (static files) and JAMstack is about a way of building sites that, while deployed as static files, are far, far from static, either in the build process or in the end result.
 
 ## Why People Love to Hate the Name JAMstack
 

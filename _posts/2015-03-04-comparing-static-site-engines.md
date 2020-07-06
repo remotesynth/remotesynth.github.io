@@ -4,7 +4,7 @@ title:  "Comparing Static Site Engines"
 date:   2015-03-04 09:00:00
 categories:
     - web development
-    - static sites
+    - Jamstack
 description: A presentation and project for comparing static site generators.
 comments: true
 ---

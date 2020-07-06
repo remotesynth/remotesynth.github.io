@@ -4,7 +4,7 @@ title: "More Advanced Jekyll/Liquid Template Techniques"
 date: "2016-10-27"
 categories: 
     - web development
-    - static sites
+    - Jamstack
 description: Sometimes Jekyll stuff isn't obvious.
 comments: true
 ---

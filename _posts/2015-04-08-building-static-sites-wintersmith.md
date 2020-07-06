@@ -4,7 +4,7 @@ title:  "Building Static Sites with Node.js and Wintersmith"
 date:   2015-04-08 09:00:00
 categories:
     - web development
-    - static sites
+    - Jamstack
 description: How to build your first static site with the Wintersmith generator.
 comments: true
 ---

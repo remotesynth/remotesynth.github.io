@@ -4,7 +4,7 @@ title: Building and Deploying a JAMStack site with Stackbit
 date: '2019-05-06'
 description: A quick introduction to using the Stackbit service for creating a content-managed JAMStack site
 categories:
-  - static sites
+  - Jamstack
   - web development
 comments: true
 ---

@@ -4,7 +4,7 @@ title: A Fresh Look at Netlify CMS (Part 2)
 date: '2019-05-01'
 description: Configuring an existing site to use Netlify CMS
 categories:
-  - static sites
+  - Jamstack
   - web development
 comments: true
 ---

@@ -4,7 +4,7 @@ title: Quick Tips and Tricks for Hugo Development
 date: '2019-05-15'
 description: A look at some simple but overlooked as well as some advanced techniques for the Hugo static site generator.
 categories:
-  - static sites
+  - Jamstack
   - web development
 comments: true
 ---

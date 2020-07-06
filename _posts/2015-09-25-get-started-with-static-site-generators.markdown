@@ -4,7 +4,7 @@ title: "Get Started with Static Site Generators"
 date: "2015-09-25"
 categories:
     - web development
-    - static sites
+    - Jamstack
 description: A free report on static site development from O'Reilly.
 comments: true
 ---

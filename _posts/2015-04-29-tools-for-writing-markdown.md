@@ -4,7 +4,7 @@ title:  "Tools for Writing and Converting Markdown"
 date:   2015-04-29 11:15:47
 categories:
     - web development
-    - static sites
+    - Jamstack
 description: Some useful tools for when you need to convert other formats to Markdown.
 comments: true
 ---

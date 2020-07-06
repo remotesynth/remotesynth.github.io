@@ -4,7 +4,7 @@ title: "Some Advanced Jekyll/Liquid Template Techniques"
 date: "2015-10-02"
 categories:
   - web development
-  - static sites
+  - Jamstack
 description: This stuff was hard - for me at least!
 comments: true
 ---

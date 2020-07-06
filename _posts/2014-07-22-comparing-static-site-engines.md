@@ -3,7 +3,7 @@ layout: post
 title:  "Comparing Static Site Engines"
 date:   2014-07-22 11:15:47
 categories:
-    - static sites
+    - Jamstack
     - web development
 description: A look at some of the top static site generator options today.
 comments: true

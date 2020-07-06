@@ -3,7 +3,7 @@ layout: post
 title: "Working with Static Site Generators"
 date: "2017-01-10"
 categories:
-    - static sites
+    - Jamstack
 description: A full book from O'Reilly devoted to building static sites.
 comments: true
 ---

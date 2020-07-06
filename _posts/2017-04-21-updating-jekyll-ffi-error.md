@@ -3,7 +3,7 @@ layout: post
 title: "Update Fails on ffi Install in Ruby"
 date: "2017-04-21"
 categories:
-    - static sites
+    - Jamstack
 description: Saving you the headaches I had.
 comments: true
 ---

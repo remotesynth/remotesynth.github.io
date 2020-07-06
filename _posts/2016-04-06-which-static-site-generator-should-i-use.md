@@ -4,7 +4,7 @@ title: "Which Static Site Generator Should You Choose?"
 date: "2016-04-06"
 categories:
     - web development
-    - static sites
+    - Jamstack
 description: Which static site generator do I recommend? The simple answer is easy.
 comments: true
 ---

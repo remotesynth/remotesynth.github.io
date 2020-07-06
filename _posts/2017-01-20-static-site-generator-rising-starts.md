@@ -3,7 +3,7 @@ layout: post
 title: "Rising Stars for Static Site Generators in 2016"
 date: "2017-01-17"
 categories:
-    - static sites
+    - Jamstack
 description: Probably not who you're expecting.
 comments: true
 ---

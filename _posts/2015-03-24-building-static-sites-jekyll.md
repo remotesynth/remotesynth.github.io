@@ -4,7 +4,7 @@ title:  "A Guide to Building Static Sites with Jekyll"
 date:   2015-03-24 09:00:00
 categories:
     - web development
-    - static sites
+    - Jamstack
 description: A walkthrough on building our first static site with Jekyll.
 comments: true
 ---

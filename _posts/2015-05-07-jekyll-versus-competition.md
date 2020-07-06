@@ -4,7 +4,7 @@ title:  "Jekyll Versus the Competition"
 date:   2015-05-07 11:15:47
 categories:
     - web development
-    - static sites
+    - Jamstack
 description: How does Jekyll stack up to other generators? I share my thoughts.
 comments: true
 ---

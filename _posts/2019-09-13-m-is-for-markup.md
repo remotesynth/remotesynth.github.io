@@ -5,8 +5,7 @@ date: '2019-09-13'
 description: What makes a site JAMStack? A lot of it is in the M for markup.
 categories:
   - web development
-  - JAMStack
-  - static sites
+  - Jamstack
 comments: true
 ---
 

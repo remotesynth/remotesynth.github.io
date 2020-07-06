@@ -4,7 +4,7 @@ title: Using Netlify to the Fullest
 date: '2019-06-14'
 description: Finally taking advantage of some of the platform's more advanced features.
 categories:
-  - static sites
+  - Jamstack
   - web development
 comments: true
 ---

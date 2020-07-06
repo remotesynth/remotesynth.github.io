@@ -16,7 +16,7 @@ So, what if you are working in plain JavaScript? The docs provide a [jQuery-base
 
 ## Netlify forms without jQuery
 
-I was connecting a basic form that collects survey responses from users. First of all, I did add the `data-netlify="true"` to the form. This tells Netlify to automatically pick up on the form and added it (with the name `surveyResponses`) to my admin.
+I was connecting a basic form that collects survey responses from users. First of all, I did add the `data-netlify="true"` to the form. This tells Netlify to automatically pick up on the form and added it (with the name `surveyResponses` taken from my form's `name="surveyResponses"`) to my admin.
 
 I did set up an `action` on my form as well, though this also wasn't entirely necessary. In my case, in this current iteration of the site I planned to redirect the person to a submission page after the response is taken. This allows me to determine where the form goes in the form code rather than hard code it into the submission handler. In theory, this would allow me to use this same code for other forms in the future.
 
@@ -52,7 +52,7 @@ const serialize = function (form) {
 	return s.join('&').replace(/%20/g, '+');
 };
 ```
-My project already leveraged [Axios](https://github.com/axios/axios) for asynchronous HTTTP requests, which I also use to submit the form post request. Here's the code:
+My project already leveraged [Axios](https://github.com/axios/axios) for asynchronous HTTP requests, which I also use to submit the form post request. Here's the code:
 
 ```javascript
 function formSubmit(e) {

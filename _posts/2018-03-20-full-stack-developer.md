@@ -36,7 +36,7 @@ Let's look at a (by no means comprehensive) list of what are often listed as the
 	* C# or Java
 * Database development including:
 	* RDBMS like MS SQL
-	* NoSQL data stores like MongoDN
+	* NoSQL data stores like MongoDB
 	* In-memory stores like Redis
 * Web application architecture including:
 	* Leveraging serverless/cloud services for a microservices architecture

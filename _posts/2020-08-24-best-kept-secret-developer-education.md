@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Submitting Netlify Forms Using JavaScript
+title: The Best Kept Secret for Free Developer Education
 date: '2020-08-24'
 description: CFE.dev has hundreds of hours of free sessions for developers.
 categories:

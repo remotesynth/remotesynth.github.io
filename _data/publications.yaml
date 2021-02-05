@@ -21,6 +21,10 @@ publications:
     articles:
       - title: 'Why tomorrow is the best time to be a developer'
         URL: 'https://www.computerworld.com.au/article/648617/why-tomorrow-best-time-developer/?fp=16&fpid=1'
+  - name: 'Snipcart Blog'
+    articles:
+      - title: 'Choosing the Best Static Site Generator for 2021'
+        URL: 'https://snipcart.com/blog/choose-best-static-site-generator'
   - name: 'StepZen Blog'
     articles:
       - title: 'Building Your First GraphQL API Using StepZen'

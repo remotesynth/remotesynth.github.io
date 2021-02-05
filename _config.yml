@@ -1,21 +1,21 @@
-title:            Remote Synthesis
-description:      The personal blog of Brian Rinaldi.
-logo:             logo.png
+title: Remote Synthesis
+description: The personal blog of Brian Rinaldi.
+logo: logo.png
 disqus_shortname: remotesynthesis
 # Assign a default image for your site's header and footer
-default_bg:       default_bg.jpg
-search:           true
-share:            true
+default_bg: default_bg.jpg
+search: true
+share: true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
-readtime:         true
+readtime: true
 # Turn on or off the fin animations in the header and footer
-triangleheader:	  true
-animated_fins:    true
+triangleheader: true
+animated_fins: true
 # Specify the fin color in RGB value
-fin_color:        "255,255,255"
+fin_color: '255,255,255'
 # Change url to your domain. Leave localhost server or blank when working locally.
 url: https://remotesynthesis.com
-# baseurl:           
+# baseurl:
 
 # Gems used
 gems:
@@ -42,11 +42,11 @@ jekyll-archives:
 
 # Owner/author information
 author:
-  name:           Brian Rinaldi
-  picture:        brian.jpg
-  email:          brian.rinaldi@gmail.com
+  name: Brian Rinaldi
+  picture: brian.jpg
+  email: brian.rinaldi@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Brian Rinaldi is a Developer Advocate at StepZen. Brian has worked for over 9 years focused on developer community and developer relations at companies like Progress Software and Adobe. Brian has been a developer for over 20 years, working with front-end and back-end technologies mostly focused on the web. Brian is heavily involved in the community including running developer meetups via CFE.dev and serving on the board of and organizing meetups for Orlando Devs. serves as the editor of the Jamstacked newsletter and co-editor of Mobile Dev Weekly, authored a report on Static Site Generators for O'Reilly and co-author of the Working with Static Sites book, also from O'Reilly.
+  description: Brian Rinaldi is a Developer Advocate at StepZen with over 20 years experience as a developer for the web. Brian is actively involved in the community running developer meetups via CFE.dev and Orlando Devs. He's the editor of the Jamstacked newsletter and co-editor of Mobile Dev Weekly and co-author of The Jamstack Book from Manning.
   # Social networking links used in footer. Update and remove as you like.
   twitter: remotesynth
   facebook:
@@ -80,21 +80,21 @@ links:
 # Sitemap configuration
 # https://github.com/kinnetica/jekyll-plugins
 sitemap:
-    file: "/sitemap.xml"
-    exclude:
-        - "/atom.xml"
-        - "/feed.xml"
-        - "/feed/index.xml"
-    include_posts:
-        - "/index.html"
+  file: '/sitemap.xml'
+  exclude:
+    - '/atom.xml'
+    - '/feed.xml'
+    - '/feed/index.xml'
+  include_posts:
+    - '/index.html'
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      true
-markdown:    kramdown
+timezone: America/New_York
+future: true
+markdown: kramdown
 highlighter: rouge
-paginate:    6
-paginate_path: "/blog/:num/"
+paginate: 6
+paginate_path: '/blog/:num/'
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 collections:

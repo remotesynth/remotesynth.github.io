@@ -23,6 +23,8 @@ publications:
         URL: 'https://www.computerworld.com.au/article/648617/why-tomorrow-best-time-developer/?fp=16&fpid=1'
   - name: 'Snipcart Blog'
     articles:
+      - title: 'Using Next.js with FaunaDB: How to Query the Database from Your App'
+        URL: 'https://snipcart.com/blog/nextjs-faunadb'
       - title: 'Choosing the Best Static Site Generator for 2021'
         URL: 'https://snipcart.com/blog/choose-best-static-site-generator'
   - name: 'StepZen Blog'

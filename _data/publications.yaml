@@ -18,6 +18,7 @@ publications:
       - title: 'What Really Makes a Static Site Generator?'
         URL: 'https://css-tricks.com/really-makes-static-site-generator/'
   - name: 'Heavybit Blog'
+    articles:
       - title: '3 Lessons from 4 Years of Running Virtual Developer Events'
         URL: 'https://www.heavybit.com/library/blog/3-lessons-from-4-years-of-running-virtual-developer-events/'
   - name: 'Developer Tech'

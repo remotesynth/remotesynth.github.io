@@ -1,4 +1,7 @@
 presentations:
+  - name: 'June 2021'
+    presentations:
+      - title: 'Manning Developer Productivity Conference - 3 Productivity Hacks for Jamstack'
   - name: 'April 2021'
     presentations:
       - title: 'UI.dev - A Practical Introduction to the Jamstack'

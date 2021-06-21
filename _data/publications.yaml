@@ -1,4 +1,8 @@
 publications:
+  - name: 'Manning'
+    articles:
+      - title: 'The Jamstack Book (co-author with Raymond Camden)'
+        URL: https://www.manning.com/books/the-jamstack-book
   - name: "O'Reilly Media"
     articles:
       - title: 'Static Site Generators - Modern Tools for Static Website Development'
@@ -13,6 +17,9 @@ publications:
         URL: 'https://css-tricks.com/jamstack-cmss-have-finally-grown-up/'
       - title: 'What Really Makes a Static Site Generator?'
         URL: 'https://css-tricks.com/really-makes-static-site-generator/'
+  - name: 'Heavybit Blog'
+      - title: '3 Lessons from 4 Years of Running Virtual Developer Events'
+        URL: 'https://www.heavybit.com/library/blog/3-lessons-from-4-years-of-running-virtual-developer-events/'
   - name: 'Developer Tech'
     articles:
       - title: 'Opinion: Five developer trends to watch in 2019'
@@ -27,8 +34,26 @@ publications:
         URL: 'https://snipcart.com/blog/nextjs-faunadb'
       - title: 'Choosing the Best Static Site Generator for 2021'
         URL: 'https://snipcart.com/blog/choose-best-static-site-generator'
+  - name: Netlify Blog
+    articles:
+      - title: 'How to build a database-driven Jamstack site'
+        URL: https://www.netlify.com/blog/2021/06/10/how-to-build-a-database-driven-jamstack-site/
+      - title: 'Form Handling with the JAMstack and Netlify'
+        URL: https://www.netlify.com/blog/2017/09/19/form-handling-with-the-jamstack-and-netlify/
   - name: 'StepZen Blog'
     articles:
+      - title: 'What You Need to Know About GraphQL Directives'
+        URL: https://stepzen.com/blog/graphql-directives
+      - title: 'Turning a REST API into GraphQL Using StepZen'
+        URL: https://stepzen.com/blog/rest-to-graphql
+      - title: 'Creating a Developer Portfolio using Next.js, GraphQL, DEV and GitHub'
+        URL: https://stepzen.com/blog/developer-portfolio
+      - title: 'Learn To Love Your Jamstack BFF'
+        URL: https://stepzen.com/blog/learn-to-love-your-jamstack-bff
+      - title: 'Exploring JavaScript Client Libraries for GraphQL'
+        URL: https://stepzen.com/blog/javascript-graphql-libraries
+      - title: 'GraphQL and the Jamstack'
+        URL: https://stepzen.com/blog/graphql-and-the-jamstack
       - title: 'Building Your First GraphQL API Using StepZen'
         URL: https://stepzen.com/blog/build-your-first-graphql-api
       - title: 'Consuming GraphQL in Plain JavaScript'

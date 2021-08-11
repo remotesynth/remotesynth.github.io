@@ -20,7 +20,7 @@ I am totally biased about this one as I created it and run it, but I do that as 
 
 **What is it?**
 
-[CFE.dev](cfe.dev) runs live, virtual meetups pretty much every two weeks on a wide range of developer topics – everything from JavaScript or IoT to career and culture. We also run occasional conferences or workshops like [TheJam.dev](https://thejam.dev] in January and [Moar Serverless](https://moarserverless.com) (which is this week!). These are paid, which is how I am able to keep the lights on. However, all of the 4 years worth of prior recordings (including from our past events and workshops) are [available for free](https://cfe.dev/sessions/)!
+[CFE.dev](cfe.dev) runs live, virtual meetups pretty much every two weeks on a wide range of developer topics – everything from JavaScript or IoT to career and culture. We also run occasional conferences or workshops like [TheJam.dev](https://thejam.dev) in January and [Moar Serverless](https://moarserverless.com) (which is this week!). These are paid, which is how I am able to keep the lights on. However, all of the 4 years worth of prior recordings (including from our past events and workshops) are [available for free](https://cfe.dev/sessions/)!
 
 ## [Virtual Coffee](https://virtualcoffee.io)
 

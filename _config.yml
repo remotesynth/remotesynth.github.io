@@ -46,7 +46,7 @@ author:
   picture: brian.jpg
   email: brian.rinaldi@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description: Brian Rinaldi is a Developer Advocate at StepZen with over 20 years experience as a developer for the web. Brian is actively involved in the community running developer meetups via CFE.dev and Orlando Devs. He's the editor of the Jamstacked newsletter and co-editor of Mobile Dev Weekly and co-author of The Jamstack Book from Manning.
+  description: Brian Rinaldi is a Developer Experience Engineer at LaunchDarkly with over 20 years experience as a developer for the web. Brian is actively involved in the community running developer meetups via CFE.dev and Orlando Devs. He's the editor of the Jamstacked newsletter and co-editor of Mobile Dev Weekly and co-author of The Jamstack Book from Manning.
   # Social networking links used in footer. Update and remove as you like.
   twitter: remotesynth
   facebook:

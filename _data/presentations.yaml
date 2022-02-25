@@ -1,5 +1,8 @@
 presentations:
-  - name: "October 2022"
+  - name: "April 2022"
+    presentations:
+      - title: "DevNexus - At the Edge of My Server"
+  - name: "October 2021"
     presentations:
       - title: "Connect.Tech - To Truly Understand Jamstack, Forget the JAM"
   - name: "June 2021"

@@ -12,7 +12,7 @@ readtime: true
 triangleheader: true
 animated_fins: true
 # Specify the fin color in RGB value
-fin_color: '255,255,255'
+fin_color: "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 url: https://remotesynthesis.com
 # baseurl:
@@ -32,13 +32,13 @@ jekyll-archives:
   enabled:
     - categories
     - tags
-  layout: 'archive'
+  layout: "archive"
   permalinks:
     # year: '/:year/'
     # month: '/:year/:month/'
     # day: '/:year/:month/:day/'
-    tag: '/archive/tag/:name/'
-    category: '/archive/category/:name/'
+    tag: "/archive/tag/:name/"
+    category: "/archive/category/:name/"
 
 # Owner/author information
 author:
@@ -46,7 +46,7 @@ author:
   picture: brian.jpg
   email: brian.rinaldi@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description: Brian Rinaldi is a Developer Experience Engineer at LaunchDarkly with over 20 years experience as a developer for the web. Brian is actively involved in the community running developer meetups via CFE.dev and Orlando Devs. He's the editor of the Jamstacked newsletter and co-editor of Mobile Dev Weekly and co-author of The Jamstack Book from Manning.
+  description: Brian Rinaldi is a Developer Experience Engineer at LaunchDarkly with over 20 years experience as a developer for the web. Brian is actively involved in the community running developer meetups via CFE.dev and Orlando Devs. He's the editor of the Jamstacked newsletter and co-author of The Jamstack Book from Manning.
   # Social networking links used in footer. Update and remove as you like.
   twitter: remotesynth
   facebook:
@@ -80,13 +80,13 @@ links:
 # Sitemap configuration
 # https://github.com/kinnetica/jekyll-plugins
 sitemap:
-  file: '/sitemap.xml'
+  file: "/sitemap.xml"
   exclude:
-    - '/atom.xml'
-    - '/feed.xml'
-    - '/feed/index.xml'
+    - "/atom.xml"
+    - "/feed.xml"
+    - "/feed/index.xml"
   include_posts:
-    - '/index.html'
+    - "/index.html"
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/New_York
@@ -94,7 +94,7 @@ future: true
 markdown: kramdown
 highlighter: rouge
 paginate: 6
-paginate_path: '/blog/:num/'
+paginate_path: "/blog/:num/"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 collections:

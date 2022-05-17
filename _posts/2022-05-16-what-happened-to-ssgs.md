@@ -47,4 +47,4 @@ So we keep using the SSG name even if it's a misnomer. At some point, though, we
 
 So what's a better name? It's not easy since these aren't exactly frameworks though they may be based on frameworks (Next.js is often referred to as a metaframework) but tools like Eleventy and Astro aren't based on frameworks either. Maybe dynamic site generator. Or dynamic web application generator. Or dynamic web application builder. Maybe just web application builder.
 
-Ideas?
+Ideas? Share them with me [on Twitter](https://twitter.com/remotesynth).

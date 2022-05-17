@@ -14,7 +14,7 @@ As most of you know, SSG stands for static site generator. It's a term that has 
 
 An SSG would take markup (usually a combination Markdown and HTML), a template (something like Liquid but there are many), data files (YAML, TOML, JSON) and perhaps things like Sass for CSS and CoffeeScript (gasp! but it was 2013) for JavaScript. It would run a build step and produce static HTML, CSS and JavaScript. Here's a diagram I used to use to illustrate what an SSG did.
 
-![old skool SSG](ssg.png)
+![old skool SSG](/images/posts/ssg.png)
 
 ## The Times They Are A-Changin'
 
